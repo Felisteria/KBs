@@ -1,0 +1,12 @@
+{
+  "version": "1.3",
+  "name": "stress resistance genes",
+  "description": "All stress resistance genes from AMR finder",
+  "is_encrypted": false,
+  "changelog": {
+    "1.0": "First version",
+	"1.1": "Added tehA, tehB, terA, terF and rluB",
+	"1.2": "Added smr",
+	"1.3": "Added several hsp genes"
+  }
+}

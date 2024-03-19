@@ -1,0 +1,8 @@
+{
+  "version": "1.0",
+  "name": "Virulence knowledgebase for campylobacter",
+  "description": "All acquired virulence genese for Campylobacter from VFDB",
+  "changelog": {
+    "1.0": "retrieved 2022/08/17"
+  }
+}

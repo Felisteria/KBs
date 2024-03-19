@@ -1,0 +1,9 @@
+{
+  "version": "1.0",
+  "name": "virulence genes",
+  "description": "All virulence genes from AMR finder",
+  "is_encrypted": false,
+  "changelog": {
+    "1.0": "First version"
+  }
+}

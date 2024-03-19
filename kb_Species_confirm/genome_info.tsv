@@ -1,0 +1,756 @@
+identifier	genome_accession	genome_name	taxid	genus_name	genus_threshold	species_name	species_threshold	subspecies_name	subspecies_threshold	serotype_name	serotype_threshold
+REFSSPECIESID0000281	CP043953	Acinetobacter baumannii  	470	Acinetobacter	80	baumannii	95	-	-	-	-
+REFSSPECIESID0000262	CP020000	Acinetobacter calcoaceticus  	471	Acinetobacter	80	calcoaceticus	95	-	-	-	-
+REFSSPECIESID0000308	CP072549	Acinetobacter lwoffii  	28090	Acinetobacter	80	lwoffii	95	-	-	-	-
+REFSSPECIESID0000272	CP030880	Acinetobacter haemolyticus  	29430	Acinetobacter	80	haemolyticus	95	-	-	-	-
+REFSSPECIESID0000245	KB849702	Acinetobacter johnsonii  	40214	Acinetobacter	80	johnsonii	95	-	-	-	-
+REFSSPECIESID0000306	CP059558	Acinetobacter junii  	40215	Acinetobacter	80	junii	95	-	-	-	-
+REFSSPECIESID0000271	CP030031	Acinetobacter radioresistens  	40216	Acinetobacter	80	radioresistens	95	-	-	-	-
+REFSSPECIESID0000244	KB849556	Acinetobacter venetianus  	52133	Acinetobacter	80	venetianus	95	-	-	-	-
+REFSSPECIESID0000307	AP024524	Acinetobacter variabilis  	70346	Acinetobacter	80	variabilis	95	-	-	-	-
+REFSSPECIESID0000285	CP041970	Acinetobacter dispersus  	70348	Acinetobacter	80	dispersus	95	-	-	-	-
+REFSSPECIESID0000302	CP066119	Acinetobacter bereziniae  	106648	Acinetobacter	80	bereziniae	95	-	-	-	-
+REFSSPECIESID0000268	AP014630	Acinetobacter guillouiae  	106649	Acinetobacter	80	guillouiae	95	-	-	-	-
+REFSSPECIESID0000279	CP040105	Acinetobacter nosocomialis  	106654	Acinetobacter	80	nosocomialis	95	-	-	-	-
+REFSSPECIESID0000247	KB850254	Acinetobacter ursingii  	108980	Acinetobacter	80	ursingii	97.7	-	-	-	-
+REFSSPECIESID0000289	CP044483	Acinetobacter schindleri  	108981	Acinetobacter	80	schindleri	95	-	-	-	-
+REFSSPECIESID0000242	KB849207	Acinetobacter parvus  	134533	Acinetobacter	80	parvus	95	-	-	-	-
+REFSSPECIESID0000257	KV575261	Acinetobacter gyllenbergii  	134534	Acinetobacter	80	gyllenbergii	95	-	-	-	-
+REFSSPECIESID0000305	AP024595	Acinetobacter bouvetii  	202951	Acinetobacter	80	bouvetii	95	-	-	-	-
+REFSSPECIESID0000243	KB849514	Acinetobacter gerneri  	202952	Acinetobacter	80	gerneri	95	-	-	-	-
+REFSSPECIESID0000283	VXLD01000001	Acinetobacter tandoii  	202954	Acinetobacter	80	tandoii	95	-	-	-	-
+REFSSPECIESID0000252	BBND01000057	Acinetobacter tjernbergiae  	202955	Acinetobacter	80	tjernbergiae	95	-	-	-	-
+REFSSPECIESID0000303	CP071766	Acinetobacter towneri  	202956	Acinetobacter	80	towneri	95	-	-	-	-
+REFSSPECIESID0000246	KB849763	Acinetobacter beijerinckii  	262668	Acinetobacter	80	beijerinckii	95	-	-	-	-
+REFSSPECIESID0000294	BMDA01000001	Acinetobacter courvalinii  	280147	Acinetobacter	80	courvalinii	95	-	-	-	-
+REFSSPECIESID0000313	FMYK01000020	Acinetobacter marinus  	281375	Acinetobacter	80	marinus	95	-	-	-	-
+REFSSPECIESID0000251	KI530762	Acinetobacter brisouii  	396323	Acinetobacter	80	brisouii	95	-	-	-	-
+REFSSPECIESID0000309	CP079898	Acinetobacter septicus  	465797	Acinetobacter	80	septicus	97.7	-	-	-	-
+REFSSPECIESID0000304	CP073241	Acinetobacter soli  	487316	Acinetobacter	80	soli	95	-	-	-	-
+REFSSPECIESID0000316	FNPK01000071	Acinetobacter kyonggiensis  	595670	Acinetobacter	80	kyonggiensis	95	-	-	-	-
+REFSSPECIESID0000248	KE340348	Acinetobacter rudis  	632955	Acinetobacter	80	rudis	95	-	-	-	-
+REFSSPECIESID0000286	CP045198	Acinetobacter indicus  	756892	Acinetobacter	80	indicus	95	-	-	-	-
+REFSSPECIESID0000315	OANT01000035	Acinetobacter puyangensis  	1096779	Acinetobacter	80	puyangensis	95	-	-	-	-
+REFSSPECIESID0000239	CP002080	Acinetobacter oleivorans  	1148157	Acinetobacter	80	oleivorans	95	-	-	-	-
+REFSSPECIESID0000250	KI530712	Acinetobacter nectaris  	1219382	Acinetobacter	80	nectaris	95	-	-	-	-
+REFSSPECIESID0000314	FMYL01000029	Acinetobacter boissieri  	1219383	Acinetobacter	80	boissieri	95	-	-	-	-
+REFSSPECIESID0000312	FMYO01000020	Acinetobacter kookii  	1226327	Acinetobacter	80	kookii	95	-	-	-	-
+REFSSPECIESID0000317	FZLN01000011	Acinetobacter apis  	1229165	Acinetobacter	80	apis	95	-	-	-	-
+REFSSPECIESID0000282	VXKN01000001	Acinetobacter qingfengensis  	1262585	Acinetobacter	80	qingfengensis	95	-	-	-	-
+REFSSPECIESID0000254	CP012808	Acinetobacter equi  	1324350	Acinetobacter	80	equi	95	-	-	-	-
+REFSSPECIESID0000253	JXBK01000001	Acinetobacter harbinensis  	1353941	Acinetobacter	80	harbinensis	95	-	-	-	-
+REFSSPECIESID0000256	LZDS01000001	Acinetobacter gandensis  	1443941	Acinetobacter	80	gandensis	95	-	-	-	-
+REFSSPECIESID0000301	CP065820	Acinetobacter seifertii  	1530123	Acinetobacter	80	seifertii	95	-	-	-	-
+REFSSPECIESID0000266	NEXX01000001	Acinetobacter populi  	1582270	Acinetobacter	80	populi	95	-	-	-	-
+REFSSPECIESID0000311	FMBK01000030	Acinetobacter albensis  	1673609	Acinetobacter	80	albensis	95	-	-	-	-
+REFSSPECIESID0000277	SGIM01000001	Acinetobacter halotolerans  	1752076	Acinetobacter	80	halotolerans	95	-	-	-	-
+REFSSPECIESID0000296	BMDV01000001	Acinetobacter modestus  	1776740	Acinetobacter	80	modestus	95	-	-	-	-
+REFSSPECIESID0000295	BMDR01000001	Acinetobacter vivianii  	1776742	Acinetobacter	80	vivianii	95	-	-	-	-
+REFSSPECIESID0000293	CP053391	Acinetobacter lactucae  	1785128	Acinetobacter	80	lactucae	95	-	-	-	-
+REFSSPECIESID0000259	CP016895	Acinetobacter larvae  	1789224	Acinetobacter	80	larvae	95	-	-	-	-
+REFSSPECIESID0000255	LUAW01000001	Acinetobacter pragensis  	1806892	Acinetobacter	80	pragensis	95	-	-	-	-
+REFSSPECIESID0000288	JAAARQ010000001	Acinetobacter portensis  	1839785	Acinetobacter	80	portensis	95	-	-	-	-
+REFSSPECIESID0000273	RAXU01000001	Acinetobacter guerrae  	1843371	Acinetobacter	80	guerrae	95	-	-	-	-
+REFSSPECIESID0000260	CP029397	Acinetobacter defluvii  	1871111	Acinetobacter	80	defluvii	95	-	-	-	-
+REFSSPECIESID0000258	CP031716	Acinetobacter wuhouensis  	1879050	Acinetobacter	80	wuhouensis	95	-	-	-	-
+REFSSPECIESID0000261	MBDL01000001	Acinetobacter celticus  	1891224	Acinetobacter	80	celticus	95	-	-	-	-
+REFSSPECIESID0000264	NEGB01000001	Acinetobacter silvestris  	1977882	Acinetobacter	80	silvestris	95	-	-	-	-
+REFSSPECIESID0000265	CP032134	Acinetobacter chinensis  	2004650	Acinetobacter	80	chinensis	95	-	-	-	-
+REFSSPECIESID0000267	NIFO01000001	Acinetobacter piscicola  	2006115	Acinetobacter	80	piscicola	95	-	-	-	-
+REFSSPECIESID0000310	FLLN01000001	Acinetobacter pseudolwoffii  	2053287	Acinetobacter	80	pseudolwoffii	95	-	-	-	-
+REFSSPECIESID0000270	CP035934	Acinetobacter cumulans  	2136182	Acinetobacter	80	cumulans	95	-	-	-	-
+REFSSPECIESID0000269	PYIX02000001	Acinetobacter sichuanensis  	2136183	Acinetobacter	80	sichuanensis	95	-	-	-	-
+REFSSPECIESID0000275	RAXT01000001	Acinetobacter rongchengensis  	2419601	Acinetobacter	80	rongchengensis	95	-	-	-	-
+REFSSPECIESID0000274	RAXV01000001	Acinetobacter tianfuensis  	2419603	Acinetobacter	80	tianfuensis	95	-	-	-	-
+REFSSPECIESID0000276	RCHC01000001	Acinetobacter chengduensis  	2420890	Acinetobacter	80	chengduensis	95	-	-	-	-
+REFSSPECIESID0000278	SJNZ01000001	Acinetobacter terrestris  	2529843	Acinetobacter	80	terrestris	95	-	-	-	-
+REFSSPECIESID0000280	VCMZ01000001	Acinetobacter pullicarnis  	2576829	Acinetobacter	80	pullicarnis	95	-	-	-	-
+REFSSPECIESID0000300	VTDT01000001	Acinetobacter pollinis  	2605270	Acinetobacter	80	pollinis	95	-	-	-	-
+REFSSPECIESID0000299	VTDP01000001	Acinetobacter rathckeae  	2605272	Acinetobacter	80	rathckeae	95	-	-	-	-
+REFSSPECIESID0000298	VTDM01000001	Acinetobacter baretiae  	2605383	Acinetobacter	80	baretiae	95	-	-	-	-
+REFSSPECIESID0000284	CP045650	Acinetobacter wanghuae  	2662362	Acinetobacter	80	wanghuae	95	-	-	-	-
+REFSSPECIESID0000287	JAACKC010000010	Acinetobacter kanungonis  	2699469	Acinetobacter	80	kanungonis	95	-	-	-	-
+REFSSPECIESID0000291	CP049916	Acinetobacter lanii  	2715163	Acinetobacter	80	lanii	95	-	-	-	-
+REFSSPECIESID0000290	CP049801	Acinetobacter shaoyimingii  	2715164	Acinetobacter	80	shaoyimingii	95	-	-	-	-
+REFSSPECIESID0000292	JABELE010000010	Acinetobacter geminorum  	2730922	Acinetobacter	80	geminorum	95	-	-	-	-
+REFSSPECIESID0000263	NEGF01000001	Acinetobacter terrae  	2731247	Acinetobacter	80	terrae	95	-	-	-	-
+REFSSPECIESID0000297	JACSPT010000010	Acinetobacter pecorum  	2762215	Acinetobacter	80	pecorum	95	-	-	-	-
+REFSSPECIESID0000042	NC_005945.1	Bacillus anthracis - -	1392	Bacillus	85	anthracis	94	-	-	-	-
+REFSSPECIESID0000018	NZ_CP009692.1	Bacillus mycoides - -	1405	Bacillus	85	mycoides	94	-	-	-	-
+REFSSPECIESID0000008	NC_005957.1	Bacillus thuringiensis - -	1428	Bacillus	85	thuringiensis	94	-	-	-	-
+REFSSPECIESID0000365	NZ_CP064062	Brucella anthropi  	529	Brucella	80	anthropi	98.5	-	-	-	-
+REFSSPECIESID0000370	NZ_UGSH01000003	Brucella intermedia  	94625	Brucella	80	intermedia	98.5	-	-	-	-
+REFSSPECIESID0000362	NZ_WBVY01000010	Brucella tritici  	94626	Brucella	80	tritici	95	-	-	-	-
+REFSSPECIESID0000351	NZ_NNRL01000001	Brucella grignonensis  	94627	Brucella	80	grignonensis	95	-	-	-	-
+REFSSPECIESID0000361	NZ_ML636800	Brucella gallinifaecis  	215590	Brucella	80	gallinifaecis	95	-	-	-	-
+REFSSPECIESID0000352	NZ_NNRN01000001	Brucella lupini  	255457	Brucella	80	lupini	98.5	-	-	-	-
+REFSSPECIESID0000355	NZ_PTRC01000100	Brucella oryzae  	335286	Brucella	80	oryzae	95	-	-	-	-
+REFSSPECIESID0000367	NZ_CP099967	Brucella pseudintermedia  	370111	Brucella	80	pseudintermedia	95	-	-	-	-
+REFSSPECIESID0000366	NZ_JAKKOU010000001	Brucella ciceri  	391287	Brucella	80	ciceri	98.5	-	-	-	-
+REFSSPECIESID0000348	NZ_MOEC01000096	Brucella cytisi  	407152	Brucella	80	cytisi	97	-	-	-	-
+REFSSPECIESID0000358	NZ_VCPE01000001	Brucella haematophila  	419474	Brucella	80	haematophila	95	-	-	-	-
+REFSSPECIESID0000356	NZ_PCOG01000001	Brucella pseudogrignonensis  	419475	Brucella	80	pseudogrignonensis	95	-	-	-	-
+REFSSPECIESID0000350	NZ_NNRK01000001	Brucella rhizosphaerae  	571254	Brucella	80	rhizosphaerae	95	-	-	-	-
+REFSSPECIESID0000349	NZ_NNRJ01000001	Brucella thiophenivorans  	571255	Brucella	80	thiophenivorans	95	-	-	-	-
+REFSSPECIESID0000354	NZ_PHRE01000001	Brucella pituitosa  	571256	Brucella	80	pituitosa	95	-	-	-	-
+REFSSPECIESID0000363	NZ_JACIJG010000001	Brucella daejeonensis  	659015	Brucella	80	daejeonensis	95	-	-	-	-
+REFSSPECIESID0000359	NZ_VEWK01000001	Brucella pecoris  	867683	Brucella	80	pecoris	95	-	-	-	-
+REFSSPECIESID0000368	NZ_LT605585	Brucella inopinata  	1218315	Brucella	80	inopinata	98	-	-	-	-
+REFSSPECIESID0000364	NZ_BMHH01000001	Brucella endophytica  	1963359	Brucella	80	endophytica	95	-	-	-	-
+REFSSPECIESID0000341	NC_003317	Brucella abortus complex  	235	Brucella	80	abortus complex	98	-	-	-	-
+REFSSPECIESID0000342	NC_004310	Brucella abortus complex  	235	Brucella	80	abortus complex	98	-	-	-	-
+REFSSPECIESID0000343	NC_009505	Brucella abortus complex  	235	Brucella	80	abortus complex	98	-	-	-	-
+REFSSPECIESID0000344	NC_010103	Brucella abortus complex  	235	Brucella	80	abortus complex	98	-	-	-	-
+REFSSPECIESID0000345	NC_013119	Brucella abortus complex  	235	Brucella	80	abortus complex	98	-	-	-	-
+REFSSPECIESID0000346	NC_007618	Brucella abortus complex  	235	Brucella	80	abortus complex	98	-	-	-	-
+REFSSPECIESID0000347	NC_022905	Brucella abortus complex  	235	Brucella	80	abortus complex	98	-	-	-	-
+REFSSPECIESID0000369	NZ_UIGH01000002	Brucella abortus complex  	235	Brucella	80	abortus complex	98	-	-	-	-
+REFSSPECIESID0000322	NZ_JAIZPY010000010	Burkholderia cepacia  	292	Burkholderia	85	cepacia	95	-	-	-	-
+REFSSPECIESID0000321	NZ_CP009727	Burkholderia mallei  	13373	Burkholderia	85	mallei	95	-	-	-	-
+REFSSPECIESID0000320	NZ_CP013450	Burkholderia cenocepacia  	95486	Burkholderia	85	cenocepacia	95	-	-	-	-
+REFSSPECIESID0000014	AACCUC000000000.1	Campylobacter coli - -	195	Campylobacter	85	coli	94	-	-	-	-
+REFSSPECIESID0000026	NZ_CP015575.1	Campylobacter hyointestinalis - -	198	Campylobacter	85	hyointestinalis	94	-	-	-	-
+REFSSPECIESID0000030	OU701461.1	Campylobacter upsaliensis - -	28080	Campylobacter	85	upsaliensis	94	-	-	-	-
+REFSSPECIESID0000007	CP000487.1	Campylobacter fetus fetus -	32019	Campylobacter	85	fetus	94	fetus	98	-	-
+REFSSPECIESID0000009	CP008810.1	Campylobacter fetus venerealis -	32020	Campylobacter	85	fetus	94	venerealis	98	-	-
+REFSSPECIESID0000096	NC_009707.1	Campylobacter jejuni doylei -	32021	Campylobacter	85	jejuni	94	doylei	98	-	-
+REFSSPECIESID0000029	CP063085.1	Campylobacter jejuni jejuni -	32022	Campylobacter	85	jejuni	94	jejuni	98	-	-
+REFSSPECIESID0000038	CP007771.1	Campylobacter lari concheus -	488545	Campylobacter	85	lari	94	concheus	98	-	-
+REFSSPECIESID0000002	CP000932.1	Campylobacter lari lari -	650054	Campylobacter	85	lari	94	lari	98	-	-
+REFSSPECIESID0000006	CP006833.1	Campylobacter fetus testudinum -	1507806	Campylobacter	85	fetus	94	testudinum	98	-	-
+REFSSPECIESID0000323	NC_009792	Citrobacter koseri  	545	Citrobacter	85	koseri	95	-	-	-	-
+REFSSPECIESID0000324	NZ_CP014070	Citrobacter amalonaticus  	35703	Citrobacter	85	amalonaticus	95	-	-	-	-
+REFSSPECIESID0000328	NZ_RHWV01000010	Citrobacter farmeri  	67824	Citrobacter	85	farmeri	95	-	-	-	-
+REFSSPECIESID0000339	NZ_CP082833	Citrobacter rodentium  	67825	Citrobacter	85	rodentium	95	-	-	-	-
+REFSSPECIESID0000337	NZ_CP071070	Citrobacter sedlakii  	67826	Citrobacter	85	sedlakii	95	-	-	-	-
+REFSSPECIESID0000325	NZ_QVEK01000010	Citrobacter gillenii  	67828	Citrobacter	85	gillenii	95	-	-	-	-
+REFSSPECIESID0000331	NZ_QFVP01000001	Citrobacter murliniae  	67829	Citrobacter	85	murliniae	95	-	-	-	-
+REFSSPECIESID0000326	NZ_PQSZ01000010	Citrobacter freundii complex europaeus 	1344959	Citrobacter	85	freundii complex	92	europaeus	95.5	-	-
+REFSSPECIESID0000327	NZ_CP033744	Citrobacter freundii complex freundii 	1344959	Citrobacter	85	freundii complex	92	freundii	96	-	-
+REFSSPECIESID0000329	NZ_CP037864	Citrobacter freundii complex arsenatis 	1344959	Citrobacter	85	freundii complex	92	arsenatis	95.5	-	-
+REFSSPECIESID0000332	NZ_CP044098	Citrobacter freundii complex portucalensis 	1344959	Citrobacter	85	freundii complex	92	portucalensis	96	-	-
+REFSSPECIESID0000333	NZ_CP044101	Citrobacter freundii complex werkmanii 	1344959	Citrobacter	85	freundii complex	92	werkmanii	99.3	-	-
+REFSSPECIESID0000335	NZ_CP045771	Citrobacter freundii complex braakii 	1344959	Citrobacter	85	freundii complex	92	braakii	95	-	-
+REFSSPECIESID0000336	NZ_CP069763	Citrobacter freundii complex cronae 	1344959	Citrobacter	85	freundii complex	92	cronae	99.3	-	-
+REFSSPECIESID0000338	NZ_CP077262	Citrobacter freundii complex pasteurii 	1344959	Citrobacter	85	freundii complex	92	pasteurii	96.5	-	-
+REFSSPECIESID0000340	NZ_LR134485	Citrobacter freundii complex youngae 	1344959	Citrobacter	85	freundii complex	92	youngae	96.5	-	-
+REFSSPECIESID0000330	NZ_CP038469	Citrobacter tructae  	2562449	Citrobacter	85	tructae	95	-	-	-	-
+REFSSPECIESID0000334	NZ_WHIY01000100	Citrobacter telavivensis  	2653932	Citrobacter	85	telavivensis	95	-	-	-	-
+REFSSPECIESID0000373	NC_009495	Clostridium botulinum  	1491	Clostridium	70	botulinum	95	-	-	-	-
+REFSSPECIESID0000470	NZ_CP075979	Clostridium perfringens  	1502	Clostridium	75	perfringens	90	-	-	-	-
+REFSSPECIESID0000019	NZ_CP011047.1	Cronobacter sakazakii - -	28141	Cronobacter	85	sakazakii	94	-	-	-	-
+REFSSPECIESID0000039	NZ_CP012266.1	Cronobacter dublinensis dublinensis -	413497	Cronobacter	85	dublinensis	94	dublinensis	98	-	-
+REFSSPECIESID0000024	NZ_CP012268.1	Cronobacter muytjensii - -	413501	Cronobacter	85	muytjensii	94	-	-	-	-
+REFSSPECIESID0000005	NC_013282.2	Cronobacter turicensis - -	413502	Cronobacter	85	turicensis	94	-	-	-	-
+REFSSPECIESID0000027	NC_023032.1	Cronobacter malonaticus - -	413503	Cronobacter	85	malonaticus	94	-	-	-	-
+REFSSPECIESID0000045	NZ_CP012257.1	Cronobacter universalis - -	535744	Cronobacter	85	universalis	94	-	-	-	-
+REFSSPECIESID0000040	NZ_CP012264.1	Cronobacter condimenti - -	1163710	Cronobacter	85	condimenti	94	-	-	-	-
+REFSSPECIESID0000526	NZ_JAMQCM010000002	Enterobacter cloacae  	550	Enterobacter	90	cloacae	95	-	-	-	-
+REFSSPECIESID0000516	NZ_AP019630	Enterobacter asburiae  	61645	Enterobacter	90	asburiae	97	-	-	-	-
+REFSSPECIESID0000524	NZ_CP081105	Enterobacter cancerogenus  	69218	Enterobacter	90	cancerogenus	95	-	-	-	-
+REFSSPECIESID0000523	NZ_CP077392	Enterobacter hormaechei  	158836	Enterobacter	90	hormaechei	95.5	-	-	-	-
+REFSSPECIESID0000507	NZ_KI973153	Enterobacter kobei  	208224	Enterobacter	90	kobei	95	-	-	-	-
+REFSSPECIESID0000509	NZ_CP017279	Enterobacter ludwigii  	299767	Enterobacter	90	ludwigii	95	-	-	-	-
+REFSSPECIESID0000525	NZ_CP091779	Enterobacter mori  	539813	Enterobacter	90	mori	97.2	-	-	-	-
+REFSSPECIESID0000520	NZ_AP022508	Enterobacter bugandensis  	881260	Enterobacter	90	bugandensis	95.5	-	-	-	-
+REFSSPECIESID0000506	NC_015968	Enterobacter soli  	885040	Enterobacter	90	soli	95	-	-	-	-
+REFSSPECIESID0000508	NZ_CP017184	Enterobacter roggenkampii  	1812935	Enterobacter	90	roggenkampii	96.5	-	-	-	-
+REFSSPECIESID0000518	NZ_CP027986	Enterobacter sichuanensis  	2071710	Enterobacter	90	sichuanensis	95	-	-	-	-
+REFSSPECIESID0000519	NZ_AP019007	Enterobacter oligotrophicus  	2478464	Enterobacter	90	oligotrophicus	95	-	-	-	-
+REFSSPECIESID0000510	NZ_CP043318	Enterobacter chengduensis  	2494701	Enterobacter	90	chengduensis	95	-	-	-	-
+REFSSPECIESID0000512	NZ_CP043342	Enterobacter huaxiensis  	2494702	Enterobacter	90	huaxiensis	95	-	-	-	-
+REFSSPECIESID0000513	NZ_RXSJ01000001	Enterobacter quasiroggenkampii  	2497436	Enterobacter	90	quasiroggenkampii	96.5	-	-	-	-
+REFSSPECIESID0000511	NZ_QZCS01000001	Enterobacter chuandaensis  	2497875	Enterobacter	90	chuandaensis	95.5	-	-	-	-
+REFSSPECIESID0000514	NZ_SJOO01000001	Enterobacter wuhouensis  	2529381	Enterobacter	90	wuhouensis	95	-	-	-	-
+REFSSPECIESID0000515	NZ_SJON01000001	Enterobacter quasihormaechei  	2529382	Enterobacter	90	quasihormaechei	95.5	-	-	-	-
+REFSSPECIESID0000517	NZ_VTUC01000008	Enterobacter vonholyi  	2797505	Enterobacter	90	vonholyi	95.5	-	-	-	-
+REFSSPECIESID0000521	NZ_JAHEVX010000001	Enterobacter dykesii  	2797506	Enterobacter	90	dykesii	97	-	-	-	-
+REFSSPECIESID0000522	NZ_JAHEVU010000001	Enterobacter quasimori  	2838947	Enterobacter	90	quasimori	97.2	-	-	-	-
+REFSSPECIESID0000528	NZ_KB944666	Enterococcus faecalis  	1351	Enterococcus	79	faecalis	95	-	-	-	-
+REFSSPECIESID0000572	NZ_CP038996	Enterococcus faecium  	1352	Enterococcus	79	faecium	96	-	-	-	-
+REFSSPECIESID0000563	NZ_KZ846567	Enterococcus gallinarum  	1353	Enterococcus	79	gallinarum	95	-	-	-	-
+REFSSPECIESID0000559	NZ_CP023011	Enterococcus hirae  	1354	Enterococcus	79	hirae	95	-	-	-	-
+REFSSPECIESID0000536	NZ_KE136491	Enterococcus columbae  	1355	Enterococcus	79	columbae	95	-	-	-	-
+REFSSPECIESID0000539	NZ_ASWO01000001	Enterococcus sulfureus  	1356	Enterococcus	79	sulfureus	95	-	-	-	-
+REFSSPECIESID0000562	NZ_NBSL01000002	Enterococcus avium  	33945	Enterococcus	79	avium	95	-	-	-	-
+REFSSPECIESID0000527	NC_020995	Enterococcus casseliflavus  	37734	Enterococcus	79	casseliflavus	96.2	-	-	-	-
+REFSSPECIESID0000537	NZ_KE136522	Enterococcus saccharolyticus  	41997	Enterococcus	79	saccharolyticus	95	-	-	-	-
+REFSSPECIESID0000543	NZ_BCQF01000001	Enterococcus pseudoavium  	44007	Enterococcus	79	pseudoavium	95	-	-	-	-
+REFSSPECIESID0000586	NZ_LS483306	Enterococcus cecorum  	44008	Enterococcus	79	cecorum	95	-	-	-	-
+REFSSPECIESID0000534	NZ_KE136354	Enterococcus dispar  	44009	Enterococcus	79	dispar	95	-	-	-	-
+REFSSPECIESID0000558	NZ_CP022930	Enterococcus durans  	53345	Enterococcus	79	durans	95	-	-	-	-
+REFSSPECIESID0000561	NZ_CP018061	Enterococcus mundtii  	53346	Enterococcus	79	mundtii	95	-	-	-	-
+REFSSPECIESID0000538	NZ_ASVU01000001	Enterococcus asini  	57732	Enterococcus	79	asini	95	-	-	-	-
+REFSSPECIESID0000585	NZ_UFXU01000004	Enterococcus malodoratus  	71451	Enterococcus	79	malodoratus	95	-	-	-	-
+REFSSPECIESID0000580	NZ_CP072888	Enterococcus raffinosus  	71452	Enterococcus	79	raffinosus	95	-	-	-	-
+REFSSPECIESID0000535	NZ_KE136487	Enterococcus villorum  	112904	Enterococcus	79	villorum	95	-	-	-	-
+REFSSPECIESID0000542	NZ_CP013655	Enterococcus rotai  	118060	Enterococcus	79	rotai	95	-	-	-	-
+REFSSPECIESID0000553	NZ_JXLB01000001	Enterococcus ratti  	150033	Enterococcus	79	ratti	95	-	-	-	-
+REFSSPECIESID0000532	NZ_KB946323	Enterococcus phoeniculicola  	154621	Enterococcus	79	phoeniculicola	95	-	-	-	-
+REFSSPECIESID0000531	NZ_KB946317	Enterococcus moraviensis  	155617	Enterococcus	79	moraviensis	95	-	-	-	-
+REFSSPECIESID0000530	NZ_KB946314	Enterococcus haemoperoxidus  	155618	Enterococcus	79	haemoperoxidus	95	-	-	-	-
+REFSSPECIESID0000564	NZ_CP030932	Enterococcus gilvus  	160453	Enterococcus	79	gilvus	95	-	-	-	-
+REFSSPECIESID0000529	NZ_KB946300	Enterococcus pallens  	160454	Enterococcus	79	pallens	95	-	-	-	-
+REFSSPECIESID0000544	NZ_BCQJ01000001	Enterococcus canis  	214095	Enterococcus	79	canis	95	-	-	-	-
+REFSSPECIESID0000552	NZ_JXKT01000001	Enterococcus italicus  	246144	Enterococcus	79	italicus	95	-	-	-	-
+REFSSPECIESID0000551	NZ_JXKQ01000001	Enterococcus hermanniensis  	249189	Enterococcus	79	hermanniensis	95	-	-	-	-
+REFSSPECIESID0000557	NZ_LHUG01000001	Enterococcus canintestini  	317010	Enterococcus	79	canintestini	95	-	-	-	-
+REFSSPECIESID0000533	NZ_KB946332	Enterococcus caccae  	317735	Enterococcus	79	caccae	95	-	-	-	-
+REFSSPECIESID0000579	NZ_JAHLOV010000001	Enterococcus devriesei  	319970	Enterococcus	79	devriesei	95	-	-	-	-
+REFSSPECIESID0000550	NZ_JXKD01000001	Enterococcus aquimarinus  	328396	Enterococcus	79	aquimarinus	95	-	-	-	-
+REFSSPECIESID0000554	NZ_JXLC01000001	Enterococcus silesiacus  	332949	Enterococcus	79	silesiacus	95	-	-	-	-
+REFSSPECIESID0000555	NZ_JXLF01000001	Enterococcus termitis  	332950	Enterococcus	79	termitis	95	-	-	-	-
+REFSSPECIESID0000582	NZ_CP079880	Enterococcus lactis  	357441	Enterococcus	79	lactis	96	-	-	-	-
+REFSSPECIESID0000560	NZ_CP023074	Enterococcus thailandicus  	417368	Enterococcus	79	thailandicus	95	-	-	-	-
+REFSSPECIESID0000549	NZ_MIEK01000001	Enterococcus rivorum  	762845	Enterococcus	79	rivorum	95	-	-	-	-
+REFSSPECIESID0000548	NZ_MIKB01000001	Enterococcus quebecensis  	903983	Enterococcus	79	quebecensis	95	-	-	-	-
+REFSSPECIESID0000545	NZ_MIJZ01000001	Enterococcus ureasiticus  	903984	Enterococcus	79	ureasiticus	95	-	-	-	-
+REFSSPECIESID0000570	NZ_BJDW01000001	Enterococcus viikkiensis  	930854	Enterococcus	79	viikkiensis	95	-	-	-	-
+REFSSPECIESID0000546	NZ_MIKA01000001	Enterococcus plantarum  	1077675	Enterococcus	79	plantarum	95	-	-	-	-
+REFSSPECIESID0000547	NZ_MIKC01000001	Enterococcus ureilyticus  	1131292	Enterococcus	79	ureilyticus	95	-	-	-	-
+REFSSPECIESID0000573	NZ_MAEI01000001	Enterococcus diestrammenae  	1155073	Enterococcus	79	diestrammenae	95	-	-	-	-
+REFSSPECIESID0000576	NZ_JAFBFD010000001	Enterococcus lemanii  	1159752	Enterococcus	79	lemanii	95	-	-	-	-
+REFSSPECIESID0000575	NZ_BMDT01000001	Enterococcus alcedinis  	1274384	Enterococcus	79	alcedinis	95	-	-	-	-
+REFSSPECIESID0000571	NZ_BJDX01000001	Enterococcus xiangfangensis  	1296537	Enterococcus	79	xiangfangensis	95	-	-	-	-
+REFSSPECIESID0000581	NZ_JAHUZB010000010	Enterococcus alishanensis  	1303817	Enterococcus	79	alishanensis	95	-	-	-	-
+REFSSPECIESID0000540	NZ_AYPQ01000001	Enterococcus crotali  	1453587	Enterococcus	79	crotali	95	-	-	-	-
+REFSSPECIESID0000541	NZ_CVRN01000001	Enterococcus massiliensis  	1640685	Enterococcus	79	massiliensis	98.5	-	-	-	-
+REFSSPECIESID0000574	NZ_AP022822	Enterococcus saigonensis  	1805431	Enterococcus	79	saigonensis	95	-	-	-	-
+REFSSPECIESID0000584	NZ_FNVY01000004	Enterococcus timonensis  	1852364	Enterococcus	79	timonensis	95	-	-	-	-
+REFSSPECIESID0000556	NZ_CP021874	Enterococcus wangshanyuanii  	2005703	Enterococcus	79	wangshanyuanii	95	-	-	-	-
+REFSSPECIESID0000587	NZ_UWOP01000003	Enterococcus mediterraneensis  	2364791	Enterococcus	79	mediterraneensis	95	-	-	-	-
+REFSSPECIESID0000565	NZ_BJCC01000001	Enterococcus florum  	2480627	Enterococcus	79	florum	95	-	-	-	-
+REFSSPECIESID0000566	NZ_BJDP01000001	Enterococcus pingfangensis  	2559924	Enterococcus	79	pingfangensis	95	-	-	-	-
+REFSSPECIESID0000567	NZ_BJDQ01000001	Enterococcus dongliensis  	2559925	Enterococcus	79	dongliensis	95	-	-	-	-
+REFSSPECIESID0000568	NZ_BJDR01000001	Enterococcus nangangensis  	2559926	Enterococcus	79	nangangensis	95	-	-	-	-
+REFSSPECIESID0000569	NZ_BJDS01000001	Enterococcus songbeiensis  	2559927	Enterococcus	79	songbeiensis	98.5	-	-	-	-
+REFSSPECIESID0000577	NZ_JAFLVW010000001	Enterococcus hulanensis  	2559929	Enterococcus	79	hulanensis	95	-	-	-	-
+REFSSPECIESID0000578	NZ_JAEDXU010000001	Enterococcus larvae  	2794352	Enterococcus	79	larvae	95	-	-	-	-
+REFSSPECIESID0000583	NZ_AP025635	Enterococcus innesii  	2839759	Enterococcus	79	innesii	96.2	-	-	-	-
+REFSSPECIESID0000095	NC_013353.1	Escherichia coli - -	562	Escherichia	85	coli	94	-	-	-	-
+REFSSPECIESID0000020	NC_011740.1	Escherichia fergusonii - -	564	Escherichia	85	fergusonii	94	-	-	-	-
+REFSSPECIESID0000037	CP007025.1	Escherichia albertii - -	208962	Escherichia	85	albertii	94	-	-	-	-
+REFSSPECIESID0000591	NZ_CP041925	Klebsiella aerogenes  	548	Klebsiella	85	aerogenes	95	-	-	-	-
+REFSSPECIESID0000589	NZ_CP033844	Klebsiella oxytoca  	571	Klebsiella	85	oxytoca	95	-	-	-	-
+REFSSPECIESID0000592	NZ_CP045783	Klebsiella variicola  	244366	Klebsiella	85	variicola	95.5	-	-	-	-
+REFSSPECIESID0000593	NZ_AP022547	Klebsiella michiganensis  	1134687	Klebsiella	85	michiganensis	95.5	-	-	-	-
+REFSSPECIESID0000594	NZ_CP065838	Klebsiella quasipneumoniae  	1463165	Klebsiella	85	quasipneumoniae	95	-	-	-	-
+REFSSPECIESID0000596	NZ_CP084768	Klebsiella quasivariicola  	2026240	Klebsiella	85	quasivariicola	96.5	-	-	-	-
+REFSSPECIESID0000599	NZ_LR607336	Klebsiella grimontii  	2058152	Klebsiella	85	grimontii	97	-	-	-	-
+REFSSPECIESID0000588	NZ_CP036175	Klebsiella huaxiensis  	2153354	Klebsiella	85	huaxiensis	95	-	-	-	-
+REFSSPECIESID0000597	NZ_CP084874	Klebsiella africana  	2489010	Klebsiella	85	africana	96.5	-	-	-	-
+REFSSPECIESID0000590	NZ_VCHQ01000001	Klebsiella indica  	2582917	Klebsiella	85	indica	95	-	-	-	-
+REFSSPECIESID0000598	NZ_CABEJC010000001	Klebsiella spallanzanii  	2587528	Klebsiella	85	spallanzanii	95	-	-	-	-
+REFSSPECIESID0000595	NZ_CP073236	Klebsiella pasteurii  	2587529	Klebsiella	85	pasteurii	97	-	-	-	-
+REFSSPECIESID0000618	NZ_CP015941	Legionella pneumophila  	446	Legionella	78	pneumophila	95	-	-	-	-
+REFSSPECIESID0000660	NZ_CAAAIY010000001	Legionella bozemanae  	447	Legionella	78	bozemanae	95	-	-	-	-
+REFSSPECIESID0000611	NZ_LNYA01000001	Legionella erythra  	448	Legionella	78	erythra	95	-	-	-	-
+REFSSPECIESID0000607	NZ_LN681225	Legionella hackeliae  	449	Legionella	78	hackeliae	95	-	-	-	-
+REFSSPECIESID0000600	NC_013861	Legionella longbeachae  	450	Legionella	78	longbeachae	95	-	-	-	-
+REFSSPECIESID0000649	NZ_LR134374	Legionella spiritensis  	452	Legionella	78	spiritensis	95	-	-	-	-
+REFSSPECIESID0000647	NZ_UGNY01000002	Legionella feeleii  	453	Legionella	78	feeleii	95	-	-	-	-
+REFSSPECIESID0000626	NZ_CP041668	Legionella israelensis  	454	Legionella	78	israelensis	95	-	-	-	-
+REFSSPECIESID0000630	NZ_FOTZ01000013	Legionella jamestowniensis  	455	Legionella	78	jamestowniensis	95	-	-	-	-
+REFSSPECIESID0000650	NZ_LR134383	Legionella jordanis  	456	Legionella	78	jordanis	95	-	-	-	-
+REFSSPECIESID0000655	NZ_CAAAIN010000001	Legionella rubrilucens  	458	Legionella	78	rubrilucens	95	-	-	-	-
+REFSSPECIESID0000641	NZ_UGOY01000003	Legionella steigerwaltii  	460	Legionella	78	steigerwaltii	95	-	-	-	-
+REFSSPECIESID0000645	NZ_UHIB01000004	Legionella maceachernii  	466	Legionella	78	maceachernii	95	-	-	-	-
+REFSSPECIESID0000622	NZ_CP029563	Legionella anisa  	28082	Legionella	78	anisa	95	-	-	-	-
+REFSSPECIESID0000636	NZ_UGNW01000002	Legionella birminghamensis  	28083	Legionella	78	birminghamensis	95	-	-	-	-
+REFSSPECIESID0000603	NZ_JHYM01000001	Legionella cherrii  	28084	Legionella	78	cherrii	95	-	-	-	-
+REFSSPECIESID0000635	NZ_UGNX01000002	Legionella cincinnatiensis  	28085	Legionella	78	cincinnatiensis	95	-	-	-	-
+REFSSPECIESID0000621	NZ_CP025491	Legionella sainthelensi  	28087	Legionella	78	sainthelensi	95	-	-	-	-
+REFSSPECIESID0000643	NZ_UGPB01000002	Legionella wadsworthii  	28088	Legionella	78	wadsworthii	95	-	-	-	-
+REFSSPECIESID0000609	NZ_LNXV01000001	Legionella brunensis  	29422	Legionella	78	brunensis	95	-	-	-	-
+REFSSPECIESID0000613	NZ_LNYP01000001	Legionella oakridgensis  	29423	Legionella	78	oakridgensis	95	-	-	-	-
+REFSSPECIESID0000639	NZ_UGOG01000002	Legionella moravica  	39962	Legionella	78	moravica	95	-	-	-	-
+REFSSPECIESID0000656	NZ_CAAAIP010000001	Legionella tucsonensis  	40335	Legionella	78	tucsonensis	95	-	-	-	-
+REFSSPECIESID0000610	NZ_LNKA01000001	Legionella adelaidensis  	45056	Legionella	78	adelaidensis	95	-	-	-	-
+REFSSPECIESID0000633	NZ_UGOA01000003	Legionella donaldsonii  	45060	Legionella	78	donaldsonii	95	-	-	-	-
+REFSSPECIESID0000659	NZ_CAAAIZ010000001	Legionella fairfieldensis  	45064	Legionella	78	fairfieldensis	95	-	-	-	-
+REFSSPECIESID0000625	NZ_CP038271	Legionella geestiana  	45065	Legionella	78	geestiana	95	-	-	-	-
+REFSSPECIESID0000637	NZ_UGOB01000002	Legionella gratiana  	45066	Legionella	78	gratiana	95	-	-	-	-
+REFSSPECIESID0000632	NZ_LT906451	Legionella lansingensis  	45067	Legionella	78	lansingensis	95	-	-	-	-
+REFSSPECIESID0000640	NZ_UGON01000002	Legionella londiniensis  	45068	Legionella	78	londiniensis	95	-	-	-	-
+REFSSPECIESID0000612	NZ_LNYO01000001	Legionella nautarum  	45070	Legionella	78	nautarum	95	-	-	-	-
+REFSSPECIESID0000648	NZ_UGOH01000002	Legionella parisiensis  	45071	Legionella	78	parisiensis	95	-	-	-	-
+REFSSPECIESID0000638	NZ_UGOW01000005	Legionella quateirensis  	45072	Legionella	78	quateirensis	95	-	-	-	-
+REFSSPECIESID0000614	NZ_LNYS01000001	Legionella quinlivanii  	45073	Legionella	78	quinlivanii	95	-	-	-	-
+REFSSPECIESID0000617	NZ_LNYU01000001	Legionella santicrucis  	45074	Legionella	78	santicrucis	95	-	-	-	-
+REFSSPECIESID0000616	NZ_LNYW01000001	Legionella shakespearei  	45075	Legionella	78	shakespearei	95	-	-	-	-
+REFSSPECIESID0000644	NZ_UGPA01000002	Legionella worsleiensis  	45076	Legionella	78	worsleiensis	95	-	-	-	-
+REFSSPECIESID0000631	NZ_LT906442	Legionella waltersii  	66969	Legionella	78	waltersii	95	-	-	-	-
+REFSSPECIESID0000642	NZ_UGOZ01000002	Legionella taurinensis  	70611	Legionella	78	taurinensis	95	-	-	-	-
+REFSSPECIESID0000634	NZ_UGNV01000006	Legionella beliardensis  	91822	Legionella	78	beliardensis	95	-	-	-	-
+REFSSPECIESID0000651	NZ_CAAAHX010000001	Legionella gresilensis  	91823	Legionella	78	gresilensis	95	-	-	-	-
+REFSSPECIESID0000657	NZ_CAAAIU010000001	Legionella drozanskii  	96228	Legionella	78	drozanskii	95	-	-	-	-
+REFSSPECIESID0000654	NZ_CAAAIM010000001	Legionella rowbothamii  	96229	Legionella	78	rowbothamii	95	-	-	-	-
+REFSSPECIESID0000606	NZ_LN614827	Legionella fallonii  	96230	Legionella	78	fallonii	95	-	-	-	-
+REFSSPECIESID0000629	NZ_CP071527	Legionella lytica  	96232	Legionella	78	lytica	95	-	-	-	-
+REFSSPECIESID0000601	NZ_JH413793	Legionella drancourtii  	168933	Legionella	78	drancourtii	95	-	-	-	-
+REFSSPECIESID0000646	NZ_UGOD01000008	Legionella busanensis  	190655	Legionella	78	busanensis	95	-	-	-	-
+REFSSPECIESID0000652	NZ_CAAAIA010000001	Legionella impletisoli  	343510	Legionella	78	impletisoli	95	-	-	-	-
+REFSSPECIESID0000658	NZ_CAAAIW010000001	Legionella yabuuchiae  	376727	Legionella	78	yabuuchiae	95	-	-	-	-
+REFSSPECIESID0000653	NZ_CAAAID010000001	Legionella nagasakiensis  	535290	Legionella	78	nagasakiensis	95	-	-	-	-
+REFSSPECIESID0000615	NZ_LNYY01000001	Legionella steelei  	947033	Legionella	78	steelei	95	-	-	-	-
+REFSSPECIESID0000604	NZ_CCVW01000001	Legionella massiliensis  	1034943	Legionella	78	massiliensis	95	-	-	-	-
+REFSSPECIESID0000602	NZ_CALJ01000340	Legionella tunisiensis  	1034944	Legionella	78	tunisiensis	95	-	-	-	-
+REFSSPECIESID0000605	NZ_JNCF01000002	Legionella norrlandica  	1498499	Legionella	78	norrlandica	95	-	-	-	-
+REFSSPECIESID0000608	NZ_LN901315	Legionella saoudiensis  	1750561	Legionella	78	saoudiensis	95	-	-	-	-
+REFSSPECIESID0000619	NZ_CP016397	Legionella clemsonensis  	1867846	Legionella	78	clemsonensis	95	-	-	-	-
+REFSSPECIESID0000624	NZ_RZGX01000001	Legionella qingyii  	2184757	Legionella	78	qingyii	95	-	-	-	-
+REFSSPECIESID0000623	NZ_RZGT01000001	Legionella septentrionalis  	2498109	Legionella	78	septentrionalis	95	-	-	-	-
+REFSSPECIESID0000627	NZ_AP022839	Legionella antarctica  	2708020	Legionella	78	antarctica	95	-	-	-	-
+REFSSPECIESID0000628	NZ_JADOBG010000001	Legionella bononiensis  	2793102	Legionella	78	bononiensis	95	-	-	-	-
+REFSSPECIESID0000001	FR687253.1	Listeria ivanovii - -	1638	Listeria	85	ivanovii	94	-	-	-	-
+REFSSPECIESID0000032	JAFHAS000000000.1	Listeria seeligeri - -	1640	Listeria	85	seeligeri	94	-	-	-	-
+REFSSPECIESID0000011	JAFHAU000000000.1	Listeria innocua - -	1642	Listeria	85	innocua	94	-	-	-	-
+REFSSPECIESID0000034	JAFHAV000000000.1	Listeria innocua - -	1642	Listeria	85	innocua	94	-	-	-	-
+REFSSPECIESID0000003	AM263198.1	Listeria welshimeri - -	1643	Listeria	85	welshimeri	94	-	-	-	-
+REFSSPECIESID0000013	JAFHAT000000000.1	Listeria marthii - -	529731	Listeria	85	marthii	94	-	-	-	-
+REFSSPECIESID0000012	JABXMD000000000.1	Listeria monocytogenes II 1/2a	1906951	Listeria	85	monocytogenes	94	II	98	1/2a	98.5
+REFSSPECIESID0000015	JABXNK000000000.1	Listeria monocytogenes IV 4b	2065118	Listeria	85	monocytogenes	94	IV	98	4b	98.5
+REFSSPECIESID0000016	NZ_JABXMY000000000.1	Listeria monocytogenes III 4b	2065118	Listeria	85	monocytogenes	94	III	98	4b	98.5
+REFSSPECIESID0000033	JABXLY010000001.1	Listeria monocytogenes I 1/2b	2291966	Listeria	85	monocytogenes	94	I	98	1/2b	98.5
+REFSSPECIESID0000035	JABXNF000000000.1	Listeria monocytogenes III 4c	2291970	Listeria	85	monocytogenes	94	III	98	4c	98.5
+REFSSPECIESID0000747	NZ_CP018019	Mycobacterium avium  	1764	Mycobacterium	80	avium	95	-	-	-	-
+REFSSPECIESID0000745	NZ_CP085945	Mycobacterium intracellulare  	1767	Mycobacterium	80	intracellulare	99	-	-	-	-
+REFSSPECIESID0000661	NC_022663	Mycobacterium kansasii  	1768	Mycobacterium	80	kansasii	95	-	-	-	-
+REFSSPECIESID0000703	NZ_CP029543	Mycobacterium leprae  	1769	Mycobacterium	80	leprae	95	-	-	-	-
+REFSSPECIESID0000778	NZ_AM412059	Mycobacterium tuberculosis tuberculosis variant bovis 	1773	Mycobacterium	80	tuberculosis	95	tuberculosis variant bovis	99.9	-	-
+REFSSPECIESID0000779	NC_000962	Mycobacterium tuberculosis tuberculosis 	1773	Mycobacterium	80	tuberculosis	95	tuberculosis	99.9	-	-
+REFSSPECIESID0000714	NZ_AP022569	Mycobacterium cookii  	1775	Mycobacterium	80	cookii	95	-	-	-	-
+REFSSPECIESID0000688	NZ_LQOX01000001	Mycobacterium gastri  	1777	Mycobacterium	80	gastri	96	-	-	-	-
+REFSSPECIESID0000684	NZ_LQOY01000001	Mycobacterium gordonae  	1778	Mycobacterium	80	gordonae	95	-	-	-	-
+REFSSPECIESID0000741	NZ_CP080999	Mycobacterium malmoense  	1780	Mycobacterium	80	malmoense	95	-	-	-	-
+REFSSPECIESID0000733	NZ_CP058277	Mycobacterium marinum  	1781	Mycobacterium	80	marinum	99.5	-	-	-	-
+REFSSPECIESID0000682	NZ_MVIJ01000100	Mycobacterium scrofulaceum  	1783	Mycobacterium	80	scrofulaceum	95.5	-	-	-	-
+REFSSPECIESID0000713	NZ_AP022568	Mycobacterium simiae  	1784	Mycobacterium	80	simiae	95	-	-	-	-
+REFSSPECIESID0000753	NZ_CP097320	Mycobacterium sp.  	1785	Mycobacterium	80	sp.	95	-	-	-	-
+REFSSPECIESID0000694	NZ_LQPW01000001	Mycobacterium szulgai  	1787	Mycobacterium	80	szulgai	95	-	-	-	-
+REFSSPECIESID0000771	NZ_UATA01000021	Mycobacterium xenopi  	1789	Mycobacterium	80	xenopi	95	-	-	-	-
+REFSSPECIESID0000680	NZ_MVHI01000099	Mycobacterium asiaticum  	1790	Mycobacterium	80	asiaticum	95	-	-	-	-
+REFSSPECIESID0000742	NZ_CP081000	Mycobacterium senegalense  	1796	Mycobacterium	80	senegalense	95	-	-	-	-
+REFSSPECIESID0000737	NZ_CP080332	Mycobacterium diernhoferi  	1801	Mycobacterium	80	diernhoferi	95	-	-	-	-
+REFSSPECIESID0000744	NZ_CP085200	Mycobacterium ulcerans  	1809	Mycobacterium	80	ulcerans	99.5	-	-	-	-
+REFSSPECIESID0000701	NZ_PDKV01000010	Mycobacterium celatum  	28045	Mycobacterium	80	celatum	95	-	-	-	-
+REFSSPECIESID0000673	NZ_MIHB01000001	Mycobacterium intermedium  	28445	Mycobacterium	80	intermedium	95	-	-	-	-
+REFSSPECIESID0000665	NZ_CP011883	Mycobacterium haemophilum  	29311	Mycobacterium	80	haemophilum	95	-	-	-	-
+REFSSPECIESID0000770	NZ_UEGW01000003	Mycobacterium shimoidei  	29313	Mycobacterium	80	shimoidei	95	-	-	-	-
+REFSSPECIESID0000763	NZ_LT546234	Mycobacterium interjectum  	33895	Mycobacterium	80	interjectum	95	-	-	-	-
+REFSSPECIESID0000666	NZ_JAGZ01000001	Mycobacterium genavense  	36812	Mycobacterium	80	genavense	95	-	-	-	-
+REFSSPECIESID0000761	NZ_JACKVC010000001	Mycobacterium porcinum  	39693	Mycobacterium	80	porcinum	95	-	-	-	-
+REFSSPECIESID0000716	NZ_AP022606	Mycobacterium branderi  	43348	Mycobacterium	80	branderi	95	-	-	-	-
+REFSSPECIESID0000719	NZ_AP022613	Mycobacterium conspicuum  	44010	Mycobacterium	80	conspicuum	95	-	-	-	-
+REFSSPECIESID0000775	NZ_LR655769	Mycobacterium tilburgii  	44467	Mycobacterium	80	tilburgii	95	-	-	-	-
+REFSSPECIESID0000691	NZ_LQPY01000001	Mycobacterium triplex  	47839	Mycobacterium	80	triplex	95	-	-	-	-
+REFSSPECIESID0000757	NZ_JACKTL010000001	Mycobacterium hodleri  	49897	Mycobacterium	80	hodleri	95	-	-	-	-
+REFSSPECIESID0000722	NZ_AP022615	Mycobacterium heidelbergense  	53376	Mycobacterium	80	heidelbergense	95	-	-	-	-
+REFSSPECIESID0000760	NZ_JACKUR010000001	Mycobacterium paraffinicum  	53378	Mycobacterium	80	paraffinicum	95	-	-	-	-
+REFSSPECIESID0000687	NZ_LQOK01000001	Mycobacterium bohemicum  	56425	Mycobacterium	80	bohemicum	95	-	-	-	-
+REFSSPECIESID0000664	NC_015848	Mycobacterium tuberculosis complex canettii 	77643	Mycobacterium	80	tuberculosis complex	95	canettii	99.5	-	-
+REFSSPECIESID0000710	NZ_BLKW01000001	Mycobacterium botniense  	84962	Mycobacterium	80	botniense	95	-	-	-	-
+REFSSPECIESID0000735	NZ_AP024310	Mycobacterium heckeshornense  	110505	Mycobacterium	80	heckeshornense	95	-	-	-	-
+REFSSPECIESID0000730	NZ_CP038799	Mycobacterium frederiksbergense  	117567	Mycobacterium	80	frederiksbergense	95	-	-	-	-
+REFSSPECIESID0000732	NZ_CP045081	Mycobacterium kubicae  	120959	Mycobacterium	80	kubicae	95	-	-	-	-
+REFSSPECIESID0000715	NZ_AP022572	Mycobacterium shottsii  	133549	Mycobacterium	80	shottsii	98.5	-	-	-	-
+REFSSPECIESID0000749	NZ_CP092364	Mycobacterium goodii  	134601	Mycobacterium	80	goodii	95	-	-	-	-
+REFSSPECIESID0000669	NZ_CTEE01000001	Mycobacterium lentiflavum  	141349	Mycobacterium	80	lentiflavum	95	-	-	-	-
+REFSSPECIESID0000740	NZ_CP080998	Mycobacterium holsaticum  	152142	Mycobacterium	80	holsaticum	95	-	-	-	-
+REFSSPECIESID0000685	NZ_LQPJ01000001	Mycobacterium palustre  	153971	Mycobacterium	80	palustre	95	-	-	-	-
+REFSSPECIESID0000702	NZ_BFCH01000001	Mycobacterium montefiorense  	154654	Mycobacterium	80	montefiorense	95	-	-	-	-
+REFSSPECIESID0000723	NZ_AP022581	Mycobacterium lacus  	169765	Mycobacterium	80	lacus	95	-	-	-	-
+REFSSPECIESID0000721	NZ_AP022614	Mycobacterium parmense  	185642	Mycobacterium	80	parmense	95	-	-	-	-
+REFSSPECIESID0000754	NZ_JACKSH010000001	Mycobacterium pyrenivorans  	187102	Mycobacterium	80	pyrenivorans	95	-	-	-	-
+REFSSPECIESID0000755	NZ_JACKSJ010000001	Mycobacterium manitobense  	190147	Mycobacterium	80	manitobense	95	-	-	-	-
+REFSSPECIESID0000717	NZ_AP022573	Mycobacterium saskatchewanense  	220927	Mycobacterium	80	saskatchewanense	95	-	-	-	-
+REFSSPECIESID0000758	NZ_JACKUC010000001	Mycobacterium hackensackense  	228909	Mycobacterium	80	hackensackense	95	-	-	-	-
+REFSSPECIESID0000662	NZ_GG770676	Mycobacterium parascrofulaceum  	240125	Mycobacterium	80	parascrofulaceum	95.5	-	-	-	-
+REFSSPECIESID0000699	NZ_NVQE01000001	Mycobacterium neglectum  	242737	Mycobacterium	80	neglectum	95	-	-	-	-
+REFSSPECIESID0000690	NZ_LQPT01000001	Mycobacterium sherrisii  	243061	Mycobacterium	80	sherrisii	95	-	-	-	-
+REFSSPECIESID0000668	NZ_LDPP01000001	Mycobacterium nebraskense  	244292	Mycobacterium	80	nebraskense	95	-	-	-	-
+REFSSPECIESID0000706	NZ_AP018410	Mycobacterium pseudoshottsii  	265949	Mycobacterium	80	pseudoshottsii	99.5	-	-	-	-
+REFSSPECIESID0000720	NZ_AP022576	Mycobacterium florentinum  	292462	Mycobacterium	80	florentinum	95	-	-	-	-
+REFSSPECIESID0000750	NZ_CP092427	Mycobacterium rufum  	318424	Mycobacterium	80	rufum	95	-	-	-	-
+REFSSPECIESID0000759	NZ_JACKUK010000001	Mycobacterium barrassiae  	319709	Mycobacterium	80	barrassiae	95	-	-	-	-
+REFSSPECIESID0000681	NZ_MVHD01000100	Mycobacterium alsense  	324058	Mycobacterium	80	alsense	95	-	-	-	-
+REFSSPECIESID0000663	NZ_AFVW02000018	Mycobacterium colombiense  	339268	Mycobacterium	80	colombiense	95	-	-	-	-
+REFSSPECIESID0000762	NZ_JACKVK010000001	Mycobacterium yunnanensis  	368477	Mycobacterium	80	yunnanensis	95	-	-	-	-
+REFSSPECIESID0000738	NZ_CP080333	Mycobacterium pallens  	370524	Mycobacterium	80	pallens	97.5	-	-	-	-
+REFSSPECIESID0000724	NZ_AP022582	Mycobacterium seoulense  	386911	Mycobacterium	80	seoulense	96	-	-	-	-
+REFSSPECIESID0000748	NZ_CP092362	Mycobacterium crocinum  	388459	Mycobacterium	80	crocinum	97.5	-	-	-	-
+REFSSPECIESID0000718	NZ_AP022575	Mycobacterium shinjukuense  	398694	Mycobacterium	80	shinjukuense	95	-	-	-	-
+REFSSPECIESID0000676	NZ_MVHG01000001	Mycobacterium arosiense  	425468	Mycobacterium	80	arosiense	95	-	-	-	-
+REFSSPECIESID0000725	NZ_AP022583	Mycobacterium noviomagense  	459858	Mycobacterium	80	noviomagense	95	-	-	-	-
+REFSSPECIESID0000677	NZ_MVHE01000100	Mycobacterium angelicum  	470074	Mycobacterium	80	angelicum	95	-	-	-	-
+REFSSPECIESID0000727	NZ_AP022587	Mycobacterium stomatepiae  	470076	Mycobacterium	80	stomatepiae	95	-	-	-	-
+REFSSPECIESID0000667	NZ_CP083405	Mycobacterium lepromatosis  	480418	Mycobacterium	80	lepromatosis	95	-	-	-	-
+REFSSPECIESID0000695	NZ_CP020809	Mycobacterium dioxanotrophicus  	482462	Mycobacterium	80	dioxanotrophicus	95	-	-	-	-
+REFSSPECIESID0000776	NZ_CAJMWN010000001	Mycobacterium riyadhense  	486698	Mycobacterium	80	riyadhense	95	-	-	-	-
+REFSSPECIESID0000671	NZ_LLXQ01000001	Mycobacterium kyorinense  	487514	Mycobacterium	80	kyorinense	95	-	-	-	-
+REFSSPECIESID0000739	NZ_CP080997	Mycobacterium heraklionense  	512402	Mycobacterium	80	heraklionense	95	-	-	-	-
+REFSSPECIESID0000693	NZ_NCXM01000100	Mycobacterium vulneris  	547163	Mycobacterium	80	vulneris	95	-	-	-	-
+REFSSPECIESID0000728	NZ_AP022590	Mycobacterium mantenii  	560555	Mycobacterium	80	mantenii	95	-	-	-	-
+REFSSPECIESID0000752	NZ_CP092488	Mycobacterium paraterrae  	577492	Mycobacterium	80	paraterrae	95	-	-	-	-
+REFSSPECIESID0000726	NZ_AP022619	Mycobacterium paraseoulense  	590652	Mycobacterium	80	paraseoulense	96	-	-	-	-
+REFSSPECIESID0000768	NZ_OCVX01000001	Mycobacterium simulans  	627089	Mycobacterium	80	simulans	95	-	-	-	-
+REFSSPECIESID0000697	NZ_CP023147	Mycobacterium marseillense  	701042	Mycobacterium	80	marseillense	95	-	-	-	-
+REFSSPECIESID0000698	NZ_AP018164	Mycobacterium shigaense  	722731	Mycobacterium	80	shigaense	95	-	-	-	-
+REFSSPECIESID0000670	NZ_CTEC01000001	Mycobacterium europaeum  	761804	Mycobacterium	80	europaeum	95	-	-	-	-
+REFSSPECIESID0000686	NZ_LQPM01000001	Mycobacterium paraense  	767916	Mycobacterium	80	paraense	95	-	-	-	-
+REFSSPECIESID0000736	NZ_CP046600	Mycobacterium spongiae  	886343	Mycobacterium	80	spongiae	95	-	-	-	-
+REFSSPECIESID0000729	NZ_AP022594	Mycobacterium koreense  	1069220	Mycobacterium	80	koreense	95	-	-	-	-
+REFSSPECIESID0000734	NZ_AP024251	Mycobacterium paraintracellulare  	1138383	Mycobacterium	80	paraintracellulare	99	-	-	-	-
+REFSSPECIESID0000689	NZ_LQOW01000001	Mycobacterium fragae  	1260918	Mycobacterium	80	fragae	95	-	-	-	-
+REFSSPECIESID0000711	NZ_BLKZ01000001	Mycobacterium bourgelatii  	1273442	Mycobacterium	80	bourgelatii	95	-	-	-	-
+REFSSPECIESID0000780	NZ_CP063804	Mycobacterium orygis orygis 	1305738	Mycobacterium	80	orygis	95	orygis	99.9	-	-
+REFSSPECIESID0000707	NZ_CP025546	Mycobacterium paragordonae  	1389713	Mycobacterium	80	paragordonae	95	-	-	-	-
+REFSSPECIESID0000692	NZ_NCXP01000100	Mycobacterium decipiens  	1430326	Mycobacterium	80	decipiens	95	-	-	-	-
+REFSSPECIESID0000683	NZ_MWQA01000024	Mycobacterium persicum  	1487726	Mycobacterium	80	persicum	95	-	-	-	-
+REFSSPECIESID0000709	NZ_CP043474	Mycobacterium grossiae  	1552759	Mycobacterium	80	grossiae	95	-	-	-	-
+REFSSPECIESID0000731	NZ_CP059165	Mycobacterium vicinigordonae  	1719132	Mycobacterium	80	vicinigordonae	95	-	-	-	-
+REFSSPECIESID0000751	NZ_CP092430	Mycobacterium virginiense  	1795032	Mycobacterium	80	virginiense	95	-	-	-	-
+REFSSPECIESID0000766	NZ_LT717690	Mycobacterium terramassiliense  	1841859	Mycobacterium	80	terramassiliense	95	-	-	-	-
+REFSSPECIESID0000765	NZ_LT721901	Mycobacterium rhizamassiliense  	1841860	Mycobacterium	80	rhizamassiliense	95	-	-	-	-
+REFSSPECIESID0000764	NZ_FUEZ01000004	Mycobacterium numidiamassiliense  	1841861	Mycobacterium	80	numidiamassiliense	95	-	-	-	-
+REFSSPECIESID0000777	NZ_LXTB01000001	Mycobacterium mungi mungi 	1844474	Mycobacterium	80	mungi	95	mungi	99.9	-	-
+REFSSPECIESID0000674	NZ_MLQM01000001	Mycobacterium talmoniae  	1858794	Mycobacterium	80	talmoniae	95	-	-	-	-
+REFSSPECIESID0000675	NZ_MLCL01000079	Mycobacterium syngnathidarum  	1908205	Mycobacterium	80	syngnathidarum	95	-	-	-	-
+REFSSPECIESID0000679	NZ_MVHF01000100	Mycobacterium aquaticum  	1927124	Mycobacterium	80	aquaticum	95	-	-	-	-
+REFSSPECIESID0000767	NZ_FXEG02000008	Mycobacterium ahvazicum  	1964395	Mycobacterium	80	ahvazicum	95	-	-	-	-
+REFSSPECIESID0000700	NZ_NVQF01000001	Mycobacterium palauense  	2034511	Mycobacterium	80	palauense	95	-	-	-	-
+REFSSPECIESID0000672	NZ_LQIR01000001	Mycobacterium lehmannii  	2048550	Mycobacterium	80	lehmannii	96.5	-	-	-	-
+REFSSPECIESID0000696	NZ_NKCO01000001	Mycobacterium neumannii  	2048551	Mycobacterium	80	neumannii	96.5	-	-	-	-
+REFSSPECIESID0000769	NZ_LR130759	Mycobacterium basiliense  	2094119	Mycobacterium	80	basiliense	95	-	-	-	-
+REFSSPECIESID0000705	NZ_QAYL01000053	Mycobacterium uberis  	2162698	Mycobacterium	80	uberis	95	-	-	-	-
+REFSSPECIESID0000704	NZ_QJUA01000100	Mycobacterium kyogaense  	2212479	Mycobacterium	80	kyogaense	95	-	-	-	-
+REFSSPECIESID0000774	NZ_UPHU01000002	Mycobacterium pseudokansasii  	2341080	Mycobacterium	80	pseudokansasii	95	-	-	-	-
+REFSSPECIESID0000772	NZ_UPHQ01000360	Mycobacterium innocens  	2341083	Mycobacterium	80	innocens	95	-	-	-	-
+REFSSPECIESID0000773	NZ_UPHP01000195	Mycobacterium attenuatum  	2341086	Mycobacterium	80	attenuatum	95	-	-	-	-
+REFSSPECIESID0000712	NZ_AP022562	Mycobacterium novum  	2492438	Mycobacterium	80	novum	95	-	-	-	-
+REFSSPECIESID0000708	NZ_VMQV01000100	Mycobacterium helveticum  	2592811	Mycobacterium	80	helveticum	95	-	-	-	-
+REFSSPECIESID0000746	NZ_CP089224	Mycobacterium ostraviense  	2738409	Mycobacterium	80	ostraviense	96	-	-	-	-
+REFSSPECIESID0000743	NZ_AP024828	Mycobacterium senriense  	2775496	Mycobacterium	80	senriense	95	-	-	-	-
+REFSSPECIESID0000806	NZ_LS483369	Neisseria cinerea  	483	Neisseria	79	cinerea	95	-	-	-	-
+REFSSPECIESID0000787	NZ_CP039886	Neisseria flavescens  	484	Neisseria	79	flavescens	96	-	-	-	-
+REFSSPECIESID0000793	NZ_AP023069	Neisseria gonorrhoeae  	485	Neisseria	79	gonorrhoeae	96.5	-	-	-	-
+REFSSPECIESID0000785	NZ_CP031253	Neisseria lactamica  	486	Neisseria	79	lactamica	96	-	-	-	-
+REFSSPECIESID0000789	NZ_CP021520	Neisseria meningitidis  	487	Neisseria	79	meningitidis	96.5	-	-	-	-
+REFSSPECIESID0000805	NZ_UGRT01000006	Neisseria mucosa  	488	Neisseria	79	mucosa	96.5	-	-	-	-
+REFSSPECIESID0000786	NZ_QQEZ01000004	Neisseria polysaccharea  	489	Neisseria	79	polysaccharea	96	-	-	-	-
+REFSSPECIESID0000798	NZ_CP072524	Neisseria sicca  	490	Neisseria	79	sicca	96.5	-	-	-	-
+REFSSPECIESID0000790	NZ_CP031699	Neisseria animalis  	492	Neisseria	79	animalis	95	-	-	-	-
+REFSSPECIESID0000807	NZ_LR134313	Neisseria canis  	493	Neisseria	79	canis	95	-	-	-	-
+REFSSPECIESID0000784	NZ_CP031252	Neisseria elongata  	495	Neisseria	79	elongata	95	-	-	-	-
+REFSSPECIESID0000799	NZ_CP094241	Neisseria macacae  	496	Neisseria	79	macacae	95.5	-	-	-	-
+REFSSPECIESID0000809	NZ_LR134533	Neisseria weaveri  	28091	Neisseria	79	weaveri	95	-	-	-	-
+REFSSPECIESID0000788	NZ_CP039887	Neisseria subflava  	28449	Neisseria	79	subflava	96	-	-	-	-
+REFSSPECIESID0000802	NZ_JAMDHR010000010	Neisseria perflava  	33053	Neisseria	79	perflava	95.5	-	-	-	-
+REFSSPECIESID0000783	NZ_PXYY01000001	Neisseria iguanae  	90242	Neisseria	79	iguanae	95	-	-	-	-
+REFSSPECIESID0000804	NZ_UGQR01000002	Neisseria dentiae  	194197	Neisseria	79	dentiae	95	-	-	-	-
+REFSSPECIESID0000796	NZ_CP059571	Neisseria bacilliformis  	267212	Neisseria	79	bacilliformis	95	-	-	-	-
+REFSSPECIESID0000808	NZ_LR134516	Neisseria animaloris  	326522	Neisseria	79	animaloris	95	-	-	-	-
+REFSSPECIESID0000803	NZ_LT906434	Neisseria zoodegmatis  	326523	Neisseria	79	zoodegmatis	95	-	-	-	-
+REFSSPECIESID0000794	NZ_CP059565	Neisseria wadsworthii  	607711	Neisseria	79	wadsworthii	95	-	-	-	-
+REFSSPECIESID0000795	NZ_CP059567	Neisseria shayeganii  	607712	Neisseria	79	shayeganii	95	-	-	-	-
+REFSSPECIESID0000791	NZ_CP031700	Neisseria zalophi  	640030	Neisseria	79	zalophi	95	-	-	-	-
+REFSSPECIESID0000801	NZ_CP091510	Neisseria arctica  	1470200	Neisseria	79	arctica	95	-	-	-	-
+REFSSPECIESID0000797	NZ_CP060414	Neisseria musculi  	1815583	Neisseria	79	musculi	95	-	-	-	-
+REFSSPECIESID0000782	NZ_CP023429	Neisseria weixii  	1853276	Neisseria	79	weixii	95	-	-	-	-
+REFSSPECIESID0000781	NZ_CP022278	Neisseria chenwenguii  	1853278	Neisseria	79	chenwenguii	95	-	-	-	-
+REFSSPECIESID0000800	NZ_CP091509	Neisseria dumasiana  	1931275	Neisseria	79	dumasiana	95	-	-	-	-
+REFSSPECIESID0000792	NZ_CP046027	Neisseria brasiliensis  	2666100	Neisseria	79	brasiliensis	95	-	-	-	-
+REFSSPECIESID0001065	NC_002516	Pseudomonas aeruginosa  	287	Pseudomonas	77	aeruginosa	95.5	-	-	-	-
+REFSSPECIESID0000880	NZ_CP064354	Pseudomonas fragi  	296	Pseudomonas	77	fragi	95	-	-	-	-
+REFSSPECIESID0000819	NZ_CP013124	Pseudomonas mendocina  	300	Pseudomonas	77	mendocina	95	-	-	-	-
+REFSSPECIESID0000814	NZ_HG916826	Pseudomonas oleovorans  	301	Pseudomonas	77	oleovorans	95	-	-	-	-
+REFSSPECIESID0000815	NC_021505	Pseudomonas putida  	303	Pseudomonas	77	putida	95	-	-	-	-
+REFSSPECIESID0000810	NC_004578	Pseudomonas syringae  	317	Pseudomonas	77	syringae	95	-	-	-	-
+REFSSPECIESID0000885	NZ_CP074578	Pseudomonas syringae  	317	Pseudomonas	77	syringae	95	-	-	-	-
+REFSSPECIESID0000904	NZ_CP092923	Pseudomonas syringae  	317	Pseudomonas	77	syringae	95	-	-	-	-
+REFSSPECIESID0001059	NZ_BCZZ01000001	Pseudomonas flavescens  	29435	Pseudomonas	77	flavescens	95	-	-	-	-
+REFSSPECIESID0000898	NZ_CP076652	Pseudomonas savastanoi  	29438	Pseudomonas	77	savastanoi	97	-	-	-	-
+REFSSPECIESID0000913	NZ_LT855380	Pseudomonas viridiflava  	33069	Pseudomonas	77	viridiflava	95	-	-	-	-
+REFSSPECIESID0000817	NZ_CP007039	Pseudomonas cichorii  	36746	Pseudomonas	77	cichorii	96.2	-	-	-	-
+REFSSPECIESID0000825	NZ_CP014784	Pseudomonas alcaligenes  	43263	Pseudomonas	77	alcaligenes	95	-	-	-	-
+REFSSPECIESID0001060	NZ_JAAQXT010000010	Pseudomonas nitroreducens  	46680	Pseudomonas	77	nitroreducens	96	-	-	-	-
+REFSSPECIESID0000812	NZ_CP042804	Pseudomonas amygdali  	47877	Pseudomonas	77	amygdali	98.5	-	-	-	-
+REFSSPECIESID0000828	NZ_CP014262	Pseudomonas corrugata  	47879	Pseudomonas	77	corrugata	95	-	-	-	-
+REFSSPECIESID0001064	NZ_FOMO01000020	Pseudomonas straminea  	47882	Pseudomonas	77	straminea	95	-	-	-	-
+REFSSPECIESID0000842	NZ_CP027756	Pseudomonas synxantha  	47883	Pseudomonas	77	synxantha	95	-	-	-	-
+REFSSPECIESID0000849	NZ_CP044086	Pseudomonas luteola  	47886	Pseudomonas	77	luteola	95	-	-	-	-
+REFSSPECIESID0001063	NZ_FNSC01000003	Pseudomonas anguilliseptica  	53406	Pseudomonas	77	anguilliseptica	95	-	-	-	-
+REFSSPECIESID0000823	NZ_CP014158	Pseudomonas citronellolis  	53408	Pseudomonas	77	citronellolis	95	-	-	-	-
+REFSSPECIESID0000813	NZ_CP046035	Pseudomonas coronafaciens  	53409	Pseudomonas	77	coronafaciens	99	-	-	-	-
+REFSSPECIESID0000910	NZ_CP085684	Pseudomonas ficuserectae  	53410	Pseudomonas	77	ficuserectae	98.5	-	-	-	-
+REFSSPECIESID0001058	NZ_AUIE01000001	Pseudomonas resinovorans  	53412	Pseudomonas	77	resinovorans	95	-	-	-	-
+REFSSPECIESID0000852	NZ_CP047698	Pseudomonas knackmussii  	65741	Pseudomonas	77	knackmussii	95	-	-	-	-
+REFSSPECIESID0000838	NZ_CP031146	Pseudomonas plecoglossicida  	70775	Pseudomonas	77	plecoglossicida	95	-	-	-	-
+REFSSPECIESID0000896	NZ_CP081178	Pseudomonas mandelii  	75612	Pseudomonas	77	mandelii	95	-	-	-	-
+REFSSPECIESID0000843	NZ_CP027723	Pseudomonas orientalis  	76758	Pseudomonas	77	orientalis	95	-	-	-	-
+REFSSPECIESID0000840	NZ_CP022562	Pseudomonas monteilii  	76759	Pseudomonas	77	monteilii	95	-	-	-	-
+REFSSPECIESID0000859	NZ_CP054205	Pseudomonas rhodesiae  	76760	Pseudomonas	77	rhodesiae	95	-	-	-	-
+REFSSPECIESID0000831	NZ_CP018420	Pseudomonas veronii  	76761	Pseudomonas	77	veronii	95	-	-	-	-
+REFSSPECIESID0000835	NZ_CP024159	Pseudomonas mosselii  	78327	Pseudomonas	77	mosselii	95	-	-	-	-
+REFSSPECIESID0000879	NZ_CP062158	Pseudomonas lundensis  	86185	Pseudomonas	77	lundensis	95	-	-	-	-
+REFSSPECIESID0000881	NZ_CP067022	Pseudomonas cannabina  	86840	Pseudomonas	77	cannabina	95	-	-	-	-
+REFSSPECIESID0000857	NZ_CP048833	Pseudomonas multiresinivorans  	95301	Pseudomonas	77	multiresinivorans	96	-	-	-	-
+REFSSPECIESID0000830	NZ_CP017886	Pseudomonas frederiksbergensis  	104087	Pseudomonas	77	frederiksbergensis	95	-	-	-	-
+REFSSPECIESID0000853	NZ_CP049044	Pseudomonas psychrophila  	122355	Pseudomonas	77	psychrophila	95	-	-	-	-
+REFSSPECIESID0001062	NZ_FNIJ01000031	Pseudomonas jinjuensis  	198616	Pseudomonas	77	jinjuensis	95	-	-	-	-
+REFSSPECIESID0000855	NZ_CP051487	Pseudomonas umsongensis  	198618	Pseudomonas	77	umsongensis	95	-	-	-	-
+REFSSPECIESID0000905	NZ_CP066270	Pseudomonas tremae  	200454	Pseudomonas	77	tremae	99	-	-	-	-
+REFSSPECIESID0000820	NZ_CP009533	Pseudomonas rhizosphaerae  	216142	Pseudomonas	77	rhizosphaerae	95	-	-	-	-
+REFSSPECIESID0000851	NZ_CP046621	Pseudomonas alkylphenolica  	237609	Pseudomonas	77	alkylphenolica	95	-	-	-	-
+REFSSPECIESID0000829	NZ_CP015639	Pseudomonas lurida  	244566	Pseudomonas	77	lurida	95	-	-	-	-
+REFSSPECIESID0000811	NC_008027	Pseudomonas entomophila  	312306	Pseudomonas	77	entomophila	95	-	-	-	-
+REFSSPECIESID0000854	NZ_AP022642	Pseudomonas otitidis  	319939	Pseudomonas	77	otitidis	95	-	-	-	-
+REFSSPECIESID0000821	NZ_CP010896	Pseudomonas simiae  	321846	Pseudomonas	77	simiae	95	-	-	-	-
+REFSSPECIESID0000914	NZ_LS999205	Pseudomonas protegens  	380021	Pseudomonas	77	protegens	95	-	-	-	-
+REFSSPECIESID0000915	NZ_LR215729	Pseudomonas marincola  	437900	Pseudomonas	77	marincola	95	-	-	-	-
+REFSSPECIESID0000874	NZ_CP077097	Pseudomonas anuradhapurensis  	485870	Pseudomonas	77	anuradhapurensis	95	-	-	-	-
+REFSSPECIESID0000873	NZ_CP077094	Pseudomonas promysalinigenes  	485898	Pseudomonas	77	promysalinigenes	95	-	-	-	-
+REFSSPECIESID0000826	NZ_CP012400	Pseudomonas yamanorum  	515393	Pseudomonas	77	yamanorum	95	-	-	-	-
+REFSSPECIESID0000883	NZ_CP070505	Pseudomonas toyotomiensis  	554344	Pseudomonas	77	toyotomiensis	95	-	-	-	-
+REFSSPECIESID0000875	NZ_CP061079	Pseudomonas chlororaphis  	587753	Pseudomonas	77	chlororaphis	95	-	-	-	-
+REFSSPECIESID0000841	NZ_CP027706	Pseudomonas sessilinigenes  	658629	Pseudomonas	77	sessilinigenes	95	-	-	-	-
+REFSSPECIESID0000848	NZ_CP034725	Pseudomonas brassicacearum  	930166	Pseudomonas	77	brassicacearum	96.5	-	-	-	-
+REFSSPECIESID0000833	NZ_AP014862	Pseudomonas furukawaii  	1149133	Pseudomonas	77	furukawaii	95	-	-	-	-
+REFSSPECIESID0000818	NZ_CP071706	Pseudomonas donghuensis  	1163398	Pseudomonas	77	donghuensis	95	-	-	-	-
+REFSSPECIESID0000816	NZ_CP009365	Pseudomonas soli  	1306993	Pseudomonas	77	soli	96	-	-	-	-
+REFSSPECIESID0000837	NZ_CP029608	Pseudomonas kribbensis  	1628086	Pseudomonas	77	kribbensis	95	-	-	-	-
+REFSSPECIESID0000861	NZ_CP060009	Pseudomonas sediminis  	1691904	Pseudomonas	77	sediminis	95	-	-	-	-
+REFSSPECIESID0000824	NZ_CP014205	Pseudomonas glycinae  	1785145	Pseudomonas	77	glycinae	96	-	-	-	-
+REFSSPECIESID0000822	NZ_CP012676	Pseudomonas versuta  	1788301	Pseudomonas	77	versuta	95	-	-	-	-
+REFSSPECIESID0000827	NZ_CP014870	Pseudomonas silesiensis  	1853130	Pseudomonas	77	silesiensis	95	-	-	-	-
+REFSSPECIESID0000901	NZ_CP090029	Pseudomonas sivasensis  	1880678	Pseudomonas	77	sivasensis	95	-	-	-	-
+REFSSPECIESID0000832	NZ_CP020100	Pseudomonas phragmitis  	1931241	Pseudomonas	77	phragmitis	95	-	-	-	-
+REFSSPECIESID0000878	NZ_CP063456	Pseudomonas shirazica  	1940636	Pseudomonas	77	shirazica	95	-	-	-	-
+REFSSPECIESID0000886	NZ_CP074676	Pseudomonas qingdaonensis  	2056231	Pseudomonas	77	qingdaonensis	95	-	-	-	-
+REFSSPECIESID0000911	NZ_CP087185	Pseudomonas sichuanensis  	2213015	Pseudomonas	77	sichuanensis	99.3	-	-	-	-
+REFSSPECIESID0000839	NZ_CP032419	Pseudomonas cavernae  	2320867	Pseudomonas	77	cavernae	95	-	-	-	-
+REFSSPECIESID0000909	NZ_CP100553	Pseudomonas hydrolytica  	2493633	Pseudomonas	77	hydrolytica	95	-	-	-	-
+REFSSPECIESID0000884	NZ_CP068551	Pseudomonas khazarica  	2502979	Pseudomonas	77	khazarica	95	-	-	-	-
+REFSSPECIESID0000847	NZ_CP035088	Pseudomonas viciae  	2505979	Pseudomonas	77	viciae	95	-	-	-	-
+REFSSPECIESID0000846	NZ_CP035952	Pseudomonas tructae  	2518644	Pseudomonas	77	tructae	95	-	-	-	-
+REFSSPECIESID0000882	NZ_CP070503	Pseudomonas atacamensis  	2565368	Pseudomonas	77	atacamensis	97.3	-	-	-	-
+REFSSPECIESID0000860	NZ_CP056030	Pseudomonas eucalypticola  	2599595	Pseudomonas	77	eucalypticola	95	-	-	-	-
+REFSSPECIESID0000850	NZ_CP043311	Pseudomonas lalkuanensis  	2604832	Pseudomonas	77	lalkuanensis	95	-	-	-	-
+REFSSPECIESID0000903	NZ_CP091088	Pseudomonas juntendi  	2666183	Pseudomonas	77	juntendi	95	-	-	-	-
+REFSSPECIESID0000906	NZ_CP097108	Pseudomonas bijieensis  	2681983	Pseudomonas	77	bijieensis	95	-	-	-	-
+REFSSPECIESID0000834	NZ_AP017423	Pseudomonas izuensis  	2684212	Pseudomonas	77	izuensis	95	-	-	-	-
+REFSSPECIESID0000856	NZ_AP023189	Pseudomonas tohonis  	2725477	Pseudomonas	77	tohonis	95	-	-	-	-
+REFSSPECIESID0000858	NZ_CP053697	Pseudomonas campi  	2731681	Pseudomonas	77	campi	95	-	-	-	-
+REFSSPECIESID0000872	NZ_CP077095	Pseudomonas xantholysinigenes  	2745490	Pseudomonas	77	xantholysinigenes	95	-	-	-	-
+REFSSPECIESID0000871	NZ_CP077093	Pseudomonas vanderleydeniana  	2745495	Pseudomonas	77	vanderleydeniana	95	-	-	-	-
+REFSSPECIESID0000870	NZ_CP077086	Pseudomonas zarinae  	2745498	Pseudomonas	77	zarinae	96.5	-	-	-	-
+REFSSPECIESID0000868	NZ_CP077092	Pseudomonas iranensis  	2745503	Pseudomonas	77	iranensis	97.3	-	-	-	-
+REFSSPECIESID0000869	NZ_CP077091	Pseudomonas hamedanensis  	2745504	Pseudomonas	77	hamedanensis	95	-	-	-	-
+REFSSPECIESID0000867	NZ_CP077087	Pseudomonas monsensis  	2745509	Pseudomonas	77	monsensis	95	-	-	-	-
+REFSSPECIESID0000866	NZ_CP077090	Pseudomonas zeae  	2745510	Pseudomonas	77	zeae	97.4	-	-	-	-
+REFSSPECIESID0000864	NZ_CP077089	Pseudomonas tensinigenes  	2745511	Pseudomonas	77	tensinigenes	95	-	-	-	-
+REFSSPECIESID0000865	NZ_CP077085	Pseudomonas shahriarae  	2745512	Pseudomonas	77	shahriarae	95	-	-	-	-
+REFSSPECIESID0000863	NZ_CP077083	Pseudomonas salmasensis  	2745514	Pseudomonas	77	salmasensis	95	-	-	-	-
+REFSSPECIESID0000862	NZ_CP077084	Pseudomonas tritici  	2745518	Pseudomonas	77	tritici	95	-	-	-	-
+REFSSPECIESID0000902	NZ_CP058908	Pseudomonas phenolilytica  	2746321	Pseudomonas	77	phenolilytica	95	-	-	-	-
+REFSSPECIESID0000877	NZ_CP062252	Pseudomonas allokribbensis  	2774460	Pseudomonas	77	allokribbensis	95	-	-	-	-
+REFSSPECIESID0000876	NZ_CP062253	Pseudomonas gozinkensis  	2774461	Pseudomonas	77	gozinkensis	96	-	-	-	-
+REFSSPECIESID0000895	NZ_CP071586	Pseudomonas germanica  	2815720	Pseudomonas	77	germanica	97.4	-	-	-	-
+REFSSPECIESID0000897	NZ_CP073751	Pseudomonas nanhaiensis  	2830842	Pseudomonas	77	nanhaiensis	95	-	-	-	-
+REFSSPECIESID0000899	NZ_CP075567	Pseudomonas fitomaticsae  	2837969	Pseudomonas	77	fitomaticsae	96	-	-	-	-
+REFSSPECIESID0000907	NZ_CP099598	Pseudomonas siliginis  	2842346	Pseudomonas	77	siliginis	96.5	-	-	-	-
+REFSSPECIESID0000894	NZ_CP077080	Pseudomonas alvandae  	2842348	Pseudomonas	77	alvandae	99	-	-	-	-
+REFSSPECIESID0000891	NZ_CP077079	Pseudomonas asgharzadehiana  	2842349	Pseudomonas	77	asgharzadehiana	95	-	-	-	-
+REFSSPECIESID0000890	NZ_CP077078	Pseudomonas azerbaijanoriens  	2842350	Pseudomonas	77	azerbaijanoriens	95	-	-	-	-
+REFSSPECIESID0000889	NZ_CP077077	Pseudomonas maumuensis  	2842354	Pseudomonas	77	maumuensis	96	-	-	-	-
+REFSSPECIESID0000893	NZ_CP077076	Pseudomonas fakonensis  	2842355	Pseudomonas	77	fakonensis	96.5	-	-	-	-
+REFSSPECIESID0000892	NZ_CP077075	Pseudomonas xanthosomae  	2842356	Pseudomonas	77	xanthosomae	96.5	-	-	-	-
+REFSSPECIESID0000888	NZ_CP077073	Pseudomonas muyukensis  	2842357	Pseudomonas	77	muyukensis	95	-	-	-	-
+REFSSPECIESID0000908	NZ_CP078013	Pseudomonas pergaminensis  	2853159	Pseudomonas	77	pergaminensis	95	-	-	-	-
+REFSSPECIESID0000912	NZ_CP102179	Pseudomonas canavaninivorans  	2859001	Pseudomonas	77	canavaninivorans	99	-	-	-	-
+REFSSPECIESID0001061	NZ_BQHJ01000001	Pseudomonas pseudonitroreducens  	2892326	Pseudomonas	77	pseudonitroreducens	95	-	-	-	-
+REFSSPECIESID0000844	NZ_CP034338	Pseudomonas oryziphila  	2894079	Pseudomonas	77	oryziphila	99.3	-	-	-	-
+REFSSPECIESID0000900	NZ_CP072610	Pseudomonas wenzhouensis  	2906062	Pseudomonas	77	wenzhouensis	95	-	-	-	-
+REFSSPECIESID0000836	NZ_CP020560	Pseudomonas paraeruginosa  	2994495	Pseudomonas	77	paraeruginosa	95.5	-	-	-	-
+REFSSPECIESID0000887	NZ_CP076668	Pseudomonas lijiangensis  	2995658	Pseudomonas	77	lijiangensis	96.2	-	-	-	-
+REFSSPECIESID0000021	NC_006511.1	Salmonella enterica enterica Paratyphi A	54388	Salmonella	85	enterica	94	enterica	98	Paratyphi A	98.5
+REFSSPECIESID0000046	NC_015761.1	Salmonella bongori - -	54736	Salmonella	85	bongori	94	-	-	-	-
+REFSSPECIESID0000004	NC_010102.1	Salmonella enterica enterica Paratyphi B	57045	Salmonella	85	enterica	94	enterica	98	Paratyphi B	98.5
+REFSSPECIESID0000028	AL513382.1	Salmonella enterica enterica Typhi	90370	Salmonella	85	enterica	94	enterica	98	Typhi	98.5
+REFSSPECIESID0000041	AE006468.2	Salmonella enterica enterica Typhimurium	90371	Salmonella	85	enterica	94	enterica	98	Typhimurium	98.5
+REFSSPECIESID0000017	APGS01000110.1	Salmonella enterica enterica Newport	108619	Salmonella	85	enterica	94	enterica	98	Newport	98.5
+REFSSPECIESID0000031	CP007273.2	Salmonella enterica enterica Enteritidis	149539	Salmonella	85	enterica	94	enterica	98	Enteritidis	98.5
+REFSSPECIESID0000010	GCF_000293115.1	Salmonella enterica enterica Mississippi	913079	Salmonella	85	enterica	94	enterica	98	Mississippi	98.5
+REFSSPECIESID0000044	NC_007795.1	Staphylococcus aureus aureus -	1280	Staphylococcus	85	aureus	94	aureus	98	-	-
+REFSSPECIESID0000022	NC_004461.1	Staphylococcus epidermidis - -	1282	Staphylococcus	85	epidermidis	94	-	-	-	-
+REFSSPECIESID0000036	NC_007168.1	Staphylococcus haemolyticus - -	1283	Staphylococcus	85	haemolyticus	94	-	-	-	-
+REFSSPECIESID0000023	NC_007350.1	Staphylococcus saprophyticus saprophyticus -	29385	Staphylococcus	85	saprophyticus	94	saprophyticus	98	-	-
+REFSSPECIESID0000025	NZ_CP007601.1	Staphylococcus capitis capitis -	29388	Staphylococcus	85	capitis	94	capitis	98	-	-
+REFSSPECIESID0001021	NZ_CP098033	Vibrio alginolyticus  	663	Vibrio	77	alginolyticus	95	-	-	-	-
+REFSSPECIESID0000993	NZ_CP043554	Vibrio cholerae  	666	Vibrio	77	cholerae	97	-	-	-	-
+REFSSPECIESID0000927	NZ_CP009467	Vibrio harveyi  	669	Vibrio	77	harveyi	95	-	-	-	-
+REFSSPECIESID0000922	NC_004603	Vibrio parahaemolyticus  	670	Vibrio	77	parahaemolyticus	95	-	-	-	-
+REFSSPECIESID0000925	NZ_BATJ01000050	Vibrio proteolyticus  	671	Vibrio	77	proteolyticus	95	-	-	-	-
+REFSSPECIESID0000955	NZ_CP016321	Vibrio vulnificus  	672	Vibrio	77	vulnificus	95	-	-	-	-
+REFSSPECIESID0000920	NZ_ADAF01000003	Vibrio mimicus  	674	Vibrio	77	mimicus	95	-	-	-	-
+REFSSPECIESID0001054	NZ_UHIE01000003	Vibrio cincinnatiensis  	675	Vibrio	77	cincinnatiensis	95	-	-	-	-
+REFSSPECIESID0000941	NZ_CP014034	Vibrio fluvialis  	676	Vibrio	77	fluvialis	95	-	-	-	-
+REFSSPECIESID0000965	NZ_CP026321	Vibrio campbellii  	680	Vibrio	77	campbellii	95	-	-	-	-
+REFSSPECIESID0000964	NZ_POSL01000001	Vibrio diazotrophicus  	685	Vibrio	77	diazotrophicus	96	-	-	-	-
+REFSSPECIESID0000954	NZ_CP018835	Vibrio gazogenes  	687	Vibrio	77	gazogenes	95	-	-	-	-
+REFSSPECIESID0001007	NZ_JABXGK010000001	Vibrio mediterranei  	689	Vibrio	77	mediterranei	96	-	-	-	-
+REFSSPECIESID0000939	NZ_CP009977	Vibrio natriegens  	691	Vibrio	77	natriegens	95	-	-	-	-
+REFSSPECIESID0000942	NZ_BCUD01000001	Vibrio nereis  	693	Vibrio	77	nereis	95	-	-	-	-
+REFSSPECIESID0001042	NZ_CP090614	Vibrio pelagius  	28169	Vibrio	77	pelagius	95	-	-	-	-
+REFSSPECIESID0001005	NZ_JAAZTV010000001	Vibrio aestuarianus  	28171	Vibrio	77	aestuarianus	95	-	-	-	-
+REFSSPECIESID0000996	NZ_CP046793	Vibrio metschnikovii  	28172	Vibrio	77	metschnikovii	95	-	-	-	-
+REFSSPECIESID0000935	NZ_CAOA01000001	Vibrio nigripulchritudo  	28173	Vibrio	77	nigripulchritudo	95	-	-	-	-
+REFSSPECIESID0000919	NZ_ACZV01000005	Vibrio orientalis  	28175	Vibrio	77	orientalis	95	-	-	-	-
+REFSSPECIESID0000988	NZ_CP040990	Vibrio furnissii  	29494	Vibrio	77	furnissii	95	-	-	-	-
+REFSSPECIESID0001003	NZ_CP051121	Vibrio navarrensis  	29495	Vibrio	77	navarrensis	97	-	-	-	-
+REFSSPECIESID0001019	NZ_CP089203	Vibrio splendidus  	29497	Vibrio	77	splendidus	95	-	-	-	-
+REFSSPECIESID0000928	NZ_CP009354	Vibrio tubiashii  	29498	Vibrio	77	tubiashii	96	-	-	-	-
+REFSSPECIESID0000946	NZ_MDCJ01000001	Vibrio scophthalmi  	45658	Vibrio	77	scophthalmi	95	-	-	-	-
+REFSSPECIESID0000986	NZ_CP039700	Vibrio cyclitrophicus  	47951	Vibrio	77	cyclitrophicus	95	-	-	-	-
+REFSSPECIESID0000930	NZ_JXOK01000001	Vibrio mytili  	50718	Vibrio	77	mytili	95	-	-	-	-
+REFSSPECIESID0001045	NZ_JAMQQM010000010	Vibrio diabolicus  	50719	Vibrio	77	diabolicus	98.5	-	-	-	-
+REFSSPECIESID0001052	NZ_LT960611	Vibrio tapetis  	52443	Vibrio	77	tapetis	95	-	-	-	-
+REFSSPECIESID0000974	NZ_CP031494	Vibrio anguillarum  	55601	Vibrio	77	anguillarum	97	-	-	-	-
+REFSSPECIESID0000983	NZ_RSFA01000001	Vibrio pectenicida  	62763	Vibrio	77	pectenicida	95	-	-	-	-
+REFSSPECIESID0000976	NZ_BCUP01000001	Vibrio halioticoli  	71388	Vibrio	77	halioticoli	96	-	-	-	-
+REFSSPECIESID0000957	NZ_AP018685	Vibrio rumoiensis  	76258	Vibrio	77	rumoiensis	95	-	-	-	-
+REFSSPECIESID0001022	NZ_AP024861	Vibrio aerogenes  	92172	Vibrio	77	aerogenes	95	-	-	-	-
+REFSSPECIESID0001016	NZ_AP025144	Vibrio penaeicida  	104609	Vibrio	77	penaeicida	95	-	-	-	-
+REFSSPECIESID0000962	NZ_MCXR02000001	Vibrio lentus  	136468	Vibrio	77	lentus	95	-	-	-	-
+REFSSPECIESID0000923	NZ_AFWF01000326	Vibrio ichthyoenteri  	142461	Vibrio	77	ichthyoenteri	95	-	-	-	-
+REFSSPECIESID0000916	NC_013456	Vibrio antiquarius  	150340	Vibrio	77	antiquarius	98.5	-	-	-	-
+REFSSPECIESID0001046	NZ_BLAT01000001	Vibrio agarivorans  	153622	Vibrio	77	agarivorans	95	-	-	-	-
+REFSSPECIESID0000932	NZ_JXXU01000001	Vibrio neptunius  	170651	Vibrio	77	neptunius	95	-	-	-	-
+REFSSPECIESID0000921	NZ_AEVS01000116	Vibrio brasiliensis  	170652	Vibrio	77	brasiliensis	95	-	-	-	-
+REFSSPECIESID0000950	NZ_CP065150	Vibrio kanaloae  	170673	Vibrio	77	kanaloae	97	-	-	-	-
+REFSSPECIESID0000926	NZ_JONH01000001	Vibrio pacinii  	170674	Vibrio	77	pacinii	96.5	-	-	-	-
+REFSSPECIESID0001033	NZ_AP025465	Vibrio chagasii  	170679	Vibrio	77	chagasii	95	-	-	-	-
+REFSSPECIESID0000936	NZ_LHPI01000001	Vibrio hepatarius  	171383	Vibrio	77	hepatarius	95	-	-	-	-
+REFSSPECIESID0001031	NZ_AP024905	Vibrio ruber  	184755	Vibrio	77	ruber	95	-	-	-	-
+REFSSPECIESID0000931	NZ_CP063051	Vibrio coralliilyticus  	190893	Vibrio	77	coralliilyticus	95	-	-	-	-
+REFSSPECIESID0000956	NZ_CP018311	Vibrio rotiferianus  	190895	Vibrio	77	rotiferianus	95	-	-	-	-
+REFSSPECIESID0001024	NZ_AP024871	Vibrio gallicus  	190897	Vibrio	77	gallicus	95	-	-	-	-
+REFSSPECIESID0000978	NZ_BCUR01000001	Vibrio superstes  	198815	Vibrio	77	superstes	95	-	-	-	-
+REFSSPECIESID0001038	NZ_AP025506	Vibrio pomeroyi  	198832	Vibrio	77	pomeroyi	95	-	-	-	-
+REFSSPECIESID0001039	NZ_AP025510	Vibrio tasmaniensis  	212663	Vibrio	77	tasmaniensis	96	-	-	-	-
+REFSSPECIESID0001036	NZ_AP025487	Vibrio fortis  	212667	Vibrio	77	fortis	95	-	-	-	-
+REFSSPECIESID0000981	NZ_RJKJ01000001	Vibrio crassostreae  	246167	Vibrio	77	crassostreae	95	-	-	-	-
+REFSSPECIESID0000977	NZ_BCUQ01000001	Vibrio ezurae  	252583	Vibrio	77	ezurae	95	-	-	-	-
+REFSSPECIESID0001000	NZ_AP019657	Vibrio ponticus  	265668	Vibrio	77	ponticus	95	-	-	-	-
+REFSSPECIESID0001026	NZ_AP024885	Vibrio neonatus  	278860	Vibrio	77	neonatus	96	-	-	-	-
+REFSSPECIESID0001018	NZ_CP092384	Vibrio gigantis  	296199	Vibrio	77	gigantis	95	-	-	-	-
+REFSSPECIESID0000945	NZ_LUAX01000001	Vibrio europaeus  	300876	Vibrio	77	europaeus	96	-	-	-	-
+REFSSPECIESID0000924	NZ_KE384566	Vibrio litoralis  	335972	Vibrio	77	litoralis	95	-	-	-	-
+REFSSPECIESID0001020	NZ_CP096199	Vibrio sinaloensis  	379097	Vibrio	77	sinaloensis	95	-	-	-	-
+REFSSPECIESID0001030	NZ_AP024903	Vibrio rhizosphaerae  	398736	Vibrio	77	rhizosphaerae	95	-	-	-	-
+REFSSPECIESID0000990	NZ_BJLH01000001	Vibrio comitans  	413401	Vibrio	77	comitans	95	-	-	-	-
+REFSSPECIESID0000989	NZ_BJLF01000001	Vibrio inusitatus  	413402	Vibrio	77	inusitatus	95	-	-	-	-
+REFSSPECIESID0001029	NZ_AP024900	Vibrio rarus  	413403	Vibrio	77	rarus	95	-	-	-	-
+REFSSPECIESID0001028	NZ_AP024895	Vibrio porteresiae  	435912	Vibrio	77	porteresiae	95	-	-	-	-
+REFSSPECIESID0000952	NZ_MVJF01000001	Vibrio celticus  	446372	Vibrio	77	celticus	97	-	-	-	-
+REFSSPECIESID0001032	NZ_AP025458	Vibrio artabrorum  	446374	Vibrio	77	artabrorum	95	-	-	-	-
+REFSSPECIESID0001050	NZ_FNVG01000060	Vibrio hangzhouensis  	462991	Vibrio	77	hangzhouensis	95	-	-	-	-
+REFSSPECIESID0001025	NZ_AP024883	Vibrio mangrovi  	474394	Vibrio	77	mangrovi	95	-	-	-	-
+REFSSPECIESID0000961	NZ_CP018616	Vibrio azureus  	512649	Vibrio	77	azureus	95	-	-	-	-
+REFSSPECIESID0000992	NZ_BJXJ01000001	Vibrio sagamiensis  	512650	Vibrio	77	sagamiensis	95	-	-	-	-
+REFSSPECIESID0000949	NZ_MPHM01000001	Vibrio ostreicida  	526588	Vibrio	77	ostreicida	95	-	-	-	-
+REFSSPECIESID0001037	NZ_AP025490	Vibrio gallaecicus  	552386	Vibrio	77	gallaecicus	95	-	-	-	-
+REFSSPECIESID0001023	NZ_AP024864	Vibrio breoganii  	553239	Vibrio	77	breoganii	95	-	-	-	-
+REFSSPECIESID0000997	NZ_BLID01000001	Vibrio atypicus  	558271	Vibrio	77	atypicus	95	-	-	-	-
+REFSSPECIESID0000933	NZ_JXXV01000001	Vibrio galatheae  	579748	Vibrio	77	galatheae	95	-	-	-	-
+REFSSPECIESID0000970	NZ_QKKR01000020	Vibrio paracholerae  	650003	Vibrio	77	paracholerae	97	-	-	-	-
+REFSSPECIESID0001055	NZ_CAKLCM010000001	Vibrio hippocampi  	654686	Vibrio	77	hippocampi	95	-	-	-	-
+REFSSPECIESID0001056	NZ_CAKLDI010000001	Vibrio stylophorae  	659351	Vibrio	77	stylophorae	95	-	-	-	-
+REFSSPECIESID0001027	NZ_AP024893	Vibrio plantisponsor  	664643	Vibrio	77	plantisponsor	96	-	-	-	-
+REFSSPECIESID0000971	NZ_QPGL01000001	Vibrio casei  	673372	Vibrio	77	casei	95	-	-	-	-
+REFSSPECIESID0000917	NC_011753	Vibrio atlanticus  	693153	Vibrio	77	atlanticus	96	-	-	-	-
+REFSSPECIESID0000951	NZ_CP019959	Vibrio owensii  	696485	Vibrio	77	owensii	95	-	-	-	-
+REFSSPECIESID0000918	NZ_AEIU01000126	Vibrio caribbeanicus  	701175	Vibrio	77	caribbeanicus	95	-	-	-	-
+REFSSPECIESID0000963	NZ_CP025792	Vibrio jasicida  	766224	Vibrio	77	jasicida	97	-	-	-	-
+REFSSPECIESID0001049	NZ_FNDD01000081	Vibrio xiamenensis  	861298	Vibrio	77	xiamenensis	95	-	-	-	-
+REFSSPECIESID0000968	NZ_JYJK01000001	Vibrio variabilis  	990271	Vibrio	77	variabilis	95	-	-	-	-
+REFSSPECIESID0000947	NZ_LJJE01000001	Vibrio sonorensis  	1004316	Vibrio	77	sonorensis	95	-	-	-	-
+REFSSPECIESID0000934	NZ_JYJP01000001	Vibrio mexicanus  	1004326	Vibrio	77	mexicanus	95	-	-	-	-
+REFSSPECIESID0001015	NZ_AP024165	Vibrio alfacsensis  	1074311	Vibrio	77	alfacsensis	95	-	-	-	-
+REFSSPECIESID0001043	NZ_AP024897	Vibrio quintilis  	1117707	Vibrio	77	quintilis	95	-	-	-	-
+REFSSPECIESID0001040	NZ_AP025514	Vibrio toranzoniae  	1194427	Vibrio	77	toranzoniae	97	-	-	-	-
+REFSSPECIESID0001057	NZ_CAKLDM010000001	Vibrio marisflavi  	1216040	Vibrio	77	marisflavi	95	-	-	-	-
+REFSSPECIESID0001048	NZ_OANU01000191	Vibrio thalassae  	1243014	Vibrio	77	thalassae	95	-	-	-	-
+REFSSPECIESID0000937	NZ_LLEI02000001	Vibrio bivalvicida  	1276888	Vibrio	77	bivalvicida	95	-	-	-	-
+REFSSPECIESID0000948	NZ_BDJF01000001	Vibrio injensis  	1307414	Vibrio	77	injensis	95	-	-	-	-
+REFSSPECIESID0000960	NZ_NIVQ01000010	Vibrio salilacus  	1323749	Vibrio	77	salilacus	96.5	-	-	-	-
+REFSSPECIESID0001034	NZ_AP025472	Vibrio cortegadensis  	1328770	Vibrio	77	cortegadensis	95	-	-	-	-
+REFSSPECIESID0000999	NZ_AP019654	Vibrio panuliri  	1381081	Vibrio	77	panuliri	95	-	-	-	-
+REFSSPECIESID0000940	NZ_AP014636	Vibrio tritonius  	1435069	Vibrio	77	tritonius	95	-	-	-	-
+REFSSPECIESID0000929	NZ_JTKH01000001	Vibrio renipiscarius  	1461322	Vibrio	77	renipiscarius	95	-	-	-	-
+REFSSPECIESID0000938	NZ_LBGP01000010	Vibrio metoecus  	1481663	Vibrio	77	metoecus	95	-	-	-	-
+REFSSPECIESID0001041	NZ_AP024881	Vibrio ishigakensis  	1481914	Vibrio	77	ishigakensis	95	-	-	-	-
+REFSSPECIESID0001001	NZ_CP047475	Vibrio astriarenae  	1481923	Vibrio	77	astriarenae	95	-	-	-	-
+REFSSPECIESID0001053	NZ_ORXW01000001	Vibrio coralliirubri  	1516159	Vibrio	77	coralliirubri	97	-	-	-	-
+REFSSPECIESID0000966	NZ_PKND01000056	Vibrio hyugaensis  	1534743	Vibrio	77	hyugaensis	97	-	-	-	-
+REFSSPECIESID0000991	NZ_VMKJ01000001	Vibrio algivorus  	1667024	Vibrio	77	algivorus	95	-	-	-	-
+REFSSPECIESID0000944	NZ_LQXO02000001	Vibrio barjaei  	1676683	Vibrio	77	barjaei	96	-	-	-	-
+REFSSPECIESID0000943	NZ_LOBQ01000001	Vibrio cidicii  	1763883	Vibrio	77	cidicii	97	-	-	-	-
+REFSSPECIESID0000987	NZ_RZIS01000001	Vibrio profundi  	1774960	Vibrio	77	profundi	95	-	-	-	-
+REFSSPECIESID0001044	NZ_CP102096	Vibrio japonicus  	1824638	Vibrio	77	japonicus	95	-	-	-	-
+REFSSPECIESID0000953	NZ_AP018689	Vibrio aphrogenes  	1891186	Vibrio	77	aphrogenes	95	-	-	-	-
+REFSSPECIESID0001009	NZ_CP046268	Vibrio spartinae  	1918945	Vibrio	77	spartinae	95	-	-	-	-
+REFSSPECIESID0001051	NZ_FUFT01000025	Vibrio palustris  	1918946	Vibrio	77	palustris	95	-	-	-	-
+REFSSPECIESID0000959	NZ_NBUS01000054	Vibrio fujianensis  	1974215	Vibrio	77	fujianensis	95	-	-	-	-
+REFSSPECIESID0000969	NZ_QKKK01000040	Vibrio tarriae  	2014742	Vibrio	77	tarriae	97	-	-	-	-
+REFSSPECIESID0000958	NZ_CP022741	Vibrio qinghaiensis  	2025808	Vibrio	77	qinghaiensis	97	-	-	-	-
+REFSSPECIESID0001047	NZ_AP021869	Vibrio gangliei  	2077090	Vibrio	77	gangliei	95	-	-	-	-
+REFSSPECIESID0001035	NZ_AP025483	Vibrio echinoideorum  	2100116	Vibrio	77	echinoideorum	95	-	-	-	-
+REFSSPECIESID0000967	NZ_QFWT01000010	Vibrio albus  	2200953	Vibrio	77	albus	95	-	-	-	-
+REFSSPECIESID0000972	NZ_QLYY01000001	Vibrio tetraodonis  	2231647	Vibrio	77	tetraodonis	96	-	-	-	-
+REFSSPECIESID0000975	NZ_QRHC01000001	Vibrio maerlii  	2231648	Vibrio	77	maerlii	95	-	-	-	-
+REFSSPECIESID0000973	NZ_QLYZ01000001	Vibrio rhodolitus  	2231649	Vibrio	77	rhodolitus	95	-	-	-	-
+REFSSPECIESID0000979	NZ_QVMU01000001	Vibrio sinensis  	2302434	Vibrio	77	sinensis	95	-	-	-	-
+REFSSPECIESID0000980	NZ_CP033077	Vibrio zhugei  	2479546	Vibrio	77	zhugei	95	-	-	-	-
+REFSSPECIESID0000982	NZ_RJVQ01000001	Vibrio viridaestus  	2487322	Vibrio	77	viridaestus	95	-	-	-	-
+REFSSPECIESID0000984	NZ_RXZH01000001	Vibrio aquaticus  	2496559	Vibrio	77	aquaticus	95	-	-	-	-
+REFSSPECIESID0000985	NZ_SATR01000001	Vibrio ouci  	2499078	Vibrio	77	ouci	95	-	-	-	-
+REFSSPECIESID0001004	NZ_SHOE01000001	Vibrio chemaguriensis  	2527672	Vibrio	77	chemaguriensis	98.5	-	-	-	-
+REFSSPECIESID0000998	NZ_AP019651	Vibrio taketomensis  	2572923	Vibrio	77	taketomensis	95	-	-	-	-
+REFSSPECIESID0001011	NZ_VHKO01000001	Vibrio hibernica  	2587465	Vibrio	77	hibernica	95	-	-	-	-
+REFSSPECIESID0000994	NZ_CP045350	Vibrio aquimaris  	2587862	Vibrio	77	aquimaris	96	-	-	-	-
+REFSSPECIESID0000995	NZ_CP045699	Vibrio algicola  	2662262	Vibrio	77	algicola	95	-	-	-	-
+REFSSPECIESID0001002	NZ_CP049331	Vibrio ziniensis  	2711221	Vibrio	77	ziniensis	95	-	-	-	-
+REFSSPECIESID0001006	NZ_JABAIK010000001	Vibrio agarilyticus  	2726741	Vibrio	77	agarilyticus	95	-	-	-	-
+REFSSPECIESID0001008	NZ_JACFYF010000078	Vibrio marinisediminis  	2758441	Vibrio	77	marinisediminis	95	-	-	-	-
+REFSSPECIESID0001010	NZ_CP062500	Vibrio bathopelagicus  	2777577	Vibrio	77	bathopelagicus	95	-	-	-	-
+REFSSPECIESID0001012	NZ_JADPMR010000001	Vibrio nitrifigilis  	2789781	Vibrio	77	nitrifigilis	95	-	-	-	-
+REFSSPECIESID0001013	NZ_JAFEUM010000001	Vibrio ulleungensis  	2807619	Vibrio	77	ulleungensis	95	-	-	-	-
+REFSSPECIESID0001014	NZ_CP076643	Vibrio ostreae  	2841925	Vibrio	77	ostreae	95	-	-	-	-
+REFSSPECIESID0001017	NZ_JAJSDZ010000001	Vibrio salinus  	2899784	Vibrio	77	salinus	95	-	-	-	-
+REFSSPECIESID0000222	NZ_CQAE01000001	Yersinia enterocolitica - -	630	Yersinia	85	enterocolitica	96	-	-	-	-
+REFSSPECIESID0000227	NZ_CP046293	Yersinia intermedia - -	631	Yersinia	85	intermedia	95	-	-	-	-
+REFSSPECIESID0000212	NC_017168	Yersinia pseudotuberculosis complex pestis -	632	Yersinia	85	pseudotuberculosis complex	95	pestis	99.4	-	-
+REFSSPECIESID0000216	NZ_CP009712	Yersinia pseudotuberculosis complex pseudotuberculosis -	633	Yersinia	85	pseudotuberculosis complex	95	pseudotuberculosis	99.4	-	-
+REFSSPECIESID0000231	NZ_JAJAVX010000001	Yersinia bercovieri - -	634	Yersinia	85	bercovieri	95	-	-	-	-
+REFSSPECIESID0000232	NZ_UHIY01000002	Yersinia kristensenii - -	28152	Yersinia	85	kristensenii	95	-	-	-	-
+REFSSPECIESID0000217	NZ_CP009781	Yersinia aldovae - -	29483	Yersinia	85	aldovae	95	-	-	-	-
+REFSSPECIESID0000215	NZ_KN150731	Yersinia frederiksenii - -	29484	Yersinia	85	frederiksenii	95	-	-	-	-
+REFSSPECIESID0000218	NZ_CP009787	Yersinia rohdei - -	29485	Yersinia	85	rohdei	95	-	-	-	-
+REFSSPECIESID0000230	NZ_CP071802	Yersinia ruckeri - -	29486	Yersinia	85	ruckeri	95	-	-	-	-
+REFSSPECIESID0000229	NZ_CP054043	Yersinia mollaretii - -	33060	Yersinia	85	mollaretii	95	-	-	-	-
+REFSSPECIESID0000223	NZ_CGBL01000001	Yersinia aleksiciae - -	263819	Yersinia	85	aleksiciae	95	-	-	-	-
+REFSSPECIESID0000214	NZ_CP007230	Yersinia pseudotuberculosis complex similis -	367190	Yersinia	85	pseudotuberculosis complex	95	similis	96.5	-	-
+REFSSPECIESID0000213	NZ_HE997643	Yersinia massiliensis - -	419257	Yersinia	85	massiliensis	95	-	-	-	-
+REFSSPECIESID0000219	NZ_CPYD01000001	Yersinia nurmii - -	685706	Yersinia	85	nurmii	96	-	-	-	-
+REFSSPECIESID0000224	NZ_CP010029	Yersinia entomophaga - -	935293	Yersinia	85	entomophaga	96	-	-	-	-
+REFSSPECIESID0000221	NZ_CQAZ01000001	Yersinia pekkanenii - -	1288385	Yersinia	85	pekkanenii	95	-	-	-	-
+REFSSPECIESID0000237	NZ_CBLG010000001	Yersinia pseudotuberculosis complex wautersii -	1341643	Yersinia	85	pseudotuberculosis complex	95	wautersii	98.5	-	-
+REFSSPECIESID0000225	NZ_CP032482	Yersinia rochesterensis - -	1604335	Yersinia	85	rochesterensis	96	-	-	-	-
+REFSSPECIESID0000226	NZ_CP032487	Yersinia hibernica - -	2339259	Yersinia	85	hibernica	95	-	-	-	-
+REFSSPECIESID0000228	NZ_CP043727	Yersinia canariae - -	2607663	Yersinia	85	canariae	95	-	-	-	-
+REFSSPECIESID0000236	NZ_CACVAC010000001	Yersinia artesiana - -	2890315	Yersinia	85	artesiana	96	-	-	-	-
+REFSSPECIESID0000235	NZ_CABHYW010000001	Yersinia proxima - -	2890316	Yersinia	85	proxima	96	-	-	-	-
+REFSSPECIESID0000233	NZ_CABHWW010000001	Yersinia alsatica - -	2890317	Yersinia	85	alsatica	95	-	-	-	-
+REFSSPECIESID0000234	NZ_CABHWP010000001	Yersinia vastinensis - -	2890318	Yersinia	85	vastinensis	95	-	-	-	-
+REFSSPECIESID0000220	NZ_CQAW01000001	Yersinia thracica - -	2890319	Yersinia	85	thracica	96	-	-	-	-

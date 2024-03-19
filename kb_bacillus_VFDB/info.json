@@ -1,0 +1,8 @@
+{
+  "version": "1.0",
+  "name": "Virulence genes from genus Bacillus",
+  "description": "All virulence genes in VFDB from teh genus Bacillus",
+  "changelog": {
+    "1.0": "first version"
+  }
+}

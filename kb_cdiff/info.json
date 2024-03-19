@@ -1,0 +1,8 @@
+{
+  "version": "1.0",
+  "name": "Important Cdiff genes",
+  "description": "All genes from Cdiff from AMRFinder (plus) and VFDB with manual additions of all genes of the Tox A and B casette",
+  "changelog": {
+    "1.0": "first version"
+  }
+}

@@ -1,0 +1,51 @@
+identifier	required	trait	publication	description
+gyrA_pA70T		Nalidixic acid	8384814	ResFinder Aug 2022
+gyrA_pA70T		Ciprofloxacin	8384814	ResFinder Aug 2022
+gyrA_pD85Y	gyrA_pT86I|gyrA_pT86A|gyrA_pT86K|gyrA_pT86V	Ciprofloxacin	18031331	ResFinder Aug 2022
+gyrA_pD85Y	gyrA_pT86I|gyrA_pT86A|gyrA_pT86K|gyrA_pT86V	Nalidixic acid	18031331	ResFinder Aug 2022
+gyrA_pT86I		Nalidixic acid	11266291	ResFinder Aug 2022
+gyrA_pT86A		Nalidixic acid	Unpublished	ResFinder Aug 2022
+gyrA_pT86K		Nalidixic acid	8384814	ResFinder Aug 2022
+gyrA_pT86V		Nalidixic acid	16713726	ResFinder Aug 2022
+gyrA_pT86I		Ciprofloxacin	11266291	ResFinder Aug 2022
+gyrA_pT86A		Ciprofloxacin	Unpublished	ResFinder Aug 2022
+gyrA_pT86K		Ciprofloxacin	8384814	ResFinder Aug 2022
+gyrA_pT86V		Ciprofloxacin	16713726	ResFinder Aug 2022
+gyrA_pD90A		Nalidixic acid	8384814	ResFinder Aug 2022
+gyrA_pD90N		Nalidixic acid	8384814	ResFinder Aug 2022
+gyrA_pD90T		Nalidixic acid	16713726	ResFinder Aug 2022
+gyrA_pD90A		Ciprofloxacin	8384814	ResFinder Aug 2022
+gyrA_pD90N		Ciprofloxacin	8384814	ResFinder Aug 2022
+gyrA_pD90T		Ciprofloxacin	16713726	ResFinder Aug 2022
+gyrA_pP104S	gyrA_pR285K	Nalidixic acid	16713726	ResFinder Aug 2022
+gyrA_pP104S	gyrA_pR285K	Ciprofloxacin	16713726	ResFinder Aug 2022
+23S_dA2074G		Azithromycin	16713726	ResFinder Aug 2022
+23S_dA2074T		Azithromycin	16713726	ResFinder Aug 2022
+23S_dA2074C		Azithromycin	16713726	ResFinder Aug 2022
+23S_dA2074G		Erythromycin	16713726	ResFinder Aug 2022
+23S_dA2074T		Erythromycin	16713726	ResFinder Aug 2022
+23S_dA2074C		Erythromycin	16713726	ResFinder Aug 2022
+23S_dA2074G		Clindamycin	16713726	ResFinder Aug 2022
+23S_dA2074T		Clindamycin	16713726	ResFinder Aug 2022
+23S_dA2074C		Clindamycin	16713726	ResFinder Aug 2022
+23S_dA2074G		Telithromycin	16713726	ResFinder Aug 2022
+23S_dA2074T		Telithromycin	16713726	ResFinder Aug 2022
+23S_dA2074C		Telithromycin	16713726	ResFinder Aug 2022
+23S_dA2075G		Azithromycin	16713726	ResFinder Aug 2022
+23S_dA2075G		Erythromycin	16713726	ResFinder Aug 2022
+23S_dA2075G		Clindamycin	16713726	ResFinder Aug 2022
+23S_dA2075G		Telithromycin	16713726	ResFinder Aug 2022
+rpsL_pK43R		Streptomycin	20370506	ResFinder Aug 2022
+rpsL_pK88R		Streptomycin	20370506	ResFinder Aug 2022
+rpsL_pK88E		Streptomycin	20370506	ResFinder Aug 2022
+rpsL_pK88Q		Streptomycin	20370506	ResFinder Aug 2022
+porA_pG56D		Ertapenem	37358443	ResFinder March 2023
+porA_pG56D		Meropenem	37358443	ResFinder March 2023
+porA_pA139AD		Meropenem	37358443	ResFinder March 2023
+cmeA_pA366T		Ertapenem	37358443	ResFinder March 2023
+cmeA_pA366T		Meropenem	37358443	ResFinder March 2023
+cmeB_pK45E		Ertapenem	37358443	ResFinder March 2023
+cmeB_pK45E		Meropenem	37358443	ResFinder March 2023
+cmeR_pP127S		Ertapenem	37358443	ResFinder March 2023
+cmeR_pP127S		Meropenem	37358443	ResFinder March 2023
+

@@ -1,0 +1,9 @@
+{
+  "version": "1.1",
+  "name": "resistance knowledgebase for campylobacter",
+  "description": "All acquired resistance genese in the panel for Campylobacter from ResFinder and all mutation resistance from PointFinder",
+  "changelog": {
+    "1.0": "retrieved 2022/08/17",
+    "1.1": "Update mutational loci and mutations from PointFinder 2024/03/18"
+  }
+}
