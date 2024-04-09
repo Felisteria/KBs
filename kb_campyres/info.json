@@ -1,9 +1,10 @@
 {
-  "version": "1.1",
+  "version": "1.2",
   "name": "resistance knowledgebase for campylobacter",
   "description": "All acquired resistance genese in the panel for Campylobacter from ResFinder and all mutation resistance from PointFinder",
   "changelog": {
     "1.0": "retrieved 2022/08/17",
-    "1.1": "Update mutational loci and mutations from PointFinder 2024/03/18"
+    "1.1": "Update mutational loci and mutations from PointFinder 2024/03/18",
+	"1.2": "Add afflux pump cme and sat4 genes to acquired loci, correct errors in mutation positions porA and rpsL, acquired resistance limited to campylobacter panel" 
   }
 }

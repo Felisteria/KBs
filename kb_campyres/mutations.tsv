@@ -39,13 +39,13 @@ rpsL_pK43R		Streptomycin	20370506	ResFinder Aug 2022
 rpsL_pK88R		Streptomycin	20370506	ResFinder Aug 2022
 rpsL_pK88E		Streptomycin	20370506	ResFinder Aug 2022
 rpsL_pK88Q		Streptomycin	20370506	ResFinder Aug 2022
-porA_pG56D		Ertapenem	37358443	ResFinder March 2023
-porA_pG56D		Meropenem	37358443	ResFinder March 2023
-porA_pA139AD		Meropenem	37358443	ResFinder March 2023
+porA_pW222*		Ertapenem	37358443	ResFinder March 2023
+porA_pW222*		Meropenem	37358443	ResFinder March 2023
+porA_pN139ND		Meropenem	37358443	ResFinder March 2023
 cmeA_pA366T		Ertapenem	37358443	ResFinder March 2023
 cmeA_pA366T		Meropenem	37358443	ResFinder March 2023
 cmeB_pK45E		Ertapenem	37358443	ResFinder March 2023
 cmeB_pK45E		Meropenem	37358443	ResFinder March 2023
-cmeR_pP127S		Ertapenem	37358443	ResFinder March 2023
-cmeR_pP127S		Meropenem	37358443	ResFinder March 2023
+cmeR_pP172S		Ertapenem	37358443	ResFinder March 2023
+cmeR_pP172S		Meropenem	37358443	ResFinder March 2023
 
