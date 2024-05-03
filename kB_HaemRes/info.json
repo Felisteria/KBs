@@ -1,8 +1,9 @@
 {
-  "version": "1.0",
+  "version": "1.1",
   "name": "resistance knowledgebase for Haemophilus",
   "description": "All Resfinder genes, as there is no panel for Haemophilus with additional CARD genes from Haemophilus",
   "changelog": {
-    "1.0": "updated on 2024-04-25"
+    "1.0": "updated on 2024-04-25",
+	"1.1": "added mutations collected by customer from several articles"
   }
 }

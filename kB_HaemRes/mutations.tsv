@@ -1,8 +1,45 @@
 identifier	required	trait	publication	description
-gyrA_pS84Y		Fluoroquinolone		CARD April 2024
-parC_pS84F		Fluoroquinolone		CARD April 2024
-PBP3_pS357N		Beta-lactam		CARD April 2024
-PBP3_pD350N		Beta-lactam		CARD April 2024
-PBP3_pS385T		Beta-lactam		CARD April 2024
-PBP3_pL389F		Beta-lactam		CARD April 2024
-PBP3_pV562L		Beta-lactam		CARD April 2024
+PBP3_pD350N		beta-lactam antibiotics	10.1186/s13104-018-3169-0	avril 2024
+PBP3_pS357N		cefuroxime	10.1186/s13104-018-3169-0	avril 2024
+PBP3_pA368T		beta-lactam	10.1128/AAC.45.6.1693-1699.2001	avril 2024
+PBP3_pM377I		beta-lactam antibiotics	10.1128/AAC.45.6.1693-1699.2001	avril 2024
+PBP3_pS385T		cefotaxime	10.1093/jac/dkaa557	avril 2024
+PBP3_pL389F		cefotaxime	10.1093/jac/dkaa557	avril 2024
+PBP3_pA337S		beta-lactam	10.1128/AAC.45.6.1693-1699.2001	avril 2024
+PBP3_pI449V		beta-lactam antibiotics	10.1128/AAC.45.6.1693-1699.2001	avril 2024
+PBP3_pG490E		beta-lactam	10.1128/AAC.45.6.1693-1699.2001	avril 2024
+PBP3_pA502V		beta-lactam antibiotics	10.1128/AAC.45.6.1693-1699.2001	avril 2024
+PBP3_pA502T		beta-lactam antibiotics	10.1128/AAC.45.6.1693-1699.2001	avril 2024
+PBP3_pR517H		beta-lactam antibiotics	10.1128/AAC.45.6.1693-1699.2001	avril 2024
+PBP3_pN526K		beta-lactam antibiotics	10.1128/AAC.45.6.1693-1699.2001	avril 2024
+PBP3_pT532S		beta-lactam antibiotics	10.1128/AAC.45.6.1693-1699.2001	avril 2024
+PBP3_pG555E		cefotaxime	10.1093/jac/dkaa557	avril 2024
+PBP3_pY557H		cefotaxime	10.1093/jac/dkaa557	avril 2024
+PBP3_pV562L		beta-lactam antibiotics	10.1186/s13104-018-3169-0	avril 2024
+GyrA_pS84L		ciprofloxacine susceptibility	10.3389/fmicb.2023.1307261	avril 2024
+GyrA_pD88N		ciprofloxacine susceptibility	10.3389/fmicb.2023.1307261	avril 2024
+GyrA_pD88Y		ciprofloxacine susceptibility	10.3389/fmicb.2023.1307261	avril 2024
+GyrA_pM121L		ciprofloxacine susceptibility	10.3389/fmicb.2023.1307261	avril 2024
+GyrA_pE142L		ciprofloxacine susceptibility	10.3389/fmicb.2023.1307261	avril 2024
+GyrB_pA400V		ciprofloxacine susceptibility	10.3389/fmicb.2023.1307261	avril 2024
+GyrB_pD429N		ciprofloxacine susceptibility	10.1016/j.jiac.2013.12.007	avril 2024
+GyrB_pS467Y		ciprofloxacine susceptibility	10.1016/j.jiac.2013.12.007	avril 2024
+ParC_pG82A		ciprofloxacine susceptibility	10.3389/fmicb.2023.1307261	avril 2024
+ParC_pG82C		ciprofloxacine susceptibility	10.3389/fmicb.2023.1307261	avril 2024
+ParC_pS84I		ciprofloxacine susceptibility	10.3389/fmicb.2023.1307261	avril 2024
+ParC_pS84R		ciprofloxacine susceptibility	10.1016/j.jiac.2013.12.007	avril 2024
+ParC_pQ88L		ciprofloxacine susceptibility	10.3389/fmicb.2023.1307261	avril 2024
+ParC_pE88L		ciprofloxacine susceptibility	10.3389/fmicb.2023.1307261	avril 2024
+ParC_pN138S		ciprofloxacine susceptibility	10.3389/fmicb.2023.1307261	avril 2024
+ParC_pD356A		ciprofloxacine susceptibility	10.3389/fmicb.2023.1307261	avril 2024
+ParC_pT356A		ciprofloxacine susceptibility	10.3389/fmicb.2023.1307261	avril 2024
+ParC_pM481A		ciprofloxacine susceptibility	10.3389/fmicb.2023.1307261	avril 2024
+ParE_pE151K		ciprofloxacine susceptibility	10.3389/fmicb.2023.1307261	avril 2024
+ParE_pR381C		ciprofloxacine susceptibility	10.3389/fmicb.2023.1307261	avril 2024
+ParE_pD420N		ciprofloxacine susceptibility	10.3389/fmicb.2023.1307261	avril 2024
+ParE_pV466M		ciprofloxacine susceptibility	10.3389/fmicb.2023.1307261	avril 2024
+ParE_pS599A		ciprofloxacine susceptibility	10.3389/fmicb.2023.1307261	avril 2024
+FolA_pN13S		trimethoprim-sulfamethoxazole susceptibility	10.1128/mSystems.00178-21	avril 2024
+FolA_pI95L		trimethoprim-sulfamethoxazole susceptibility	10.1016/j.cmi.2019.11.022	avril 2024
+FolA_pF154S		trimethoprim-sulfamethoxazole susceptibility	10.1016/j.cmi.2019.11.022	avril 2024
+FolA_pF154V		trimethoprim-sulfamethoxazole susceptibility	10.1016/j.cmi.2019.11.022	avril 2024
